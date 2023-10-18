@@ -1318,15 +1318,15 @@
   "categories": [
     {
       "id": 1,
-      "categoryLabel": "One Piece"
+      "categoryNom": "One Piece"
     },
     {
       "id": 2,
-      "categoryLabel": "Naruto"
+      "categoryNom": "Naruto"
     },
     {
       "id": 3,
-      "categoryLabel": "Dragon Ball Z"
+      "categoryNom": "Dragon Ball Z"
     }
   ]
 }

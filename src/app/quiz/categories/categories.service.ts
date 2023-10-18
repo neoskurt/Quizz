@@ -11,7 +11,7 @@ export class CategoriesService {
 
   getCategories(search: string | null) {
     if (search) {
-      return this.http.get(`http://localhost:3000/categories?categoryLabel_like=${search}`);
+      return this.http.get(`http://localhost:3000/categories?categoryNom_like=${search}`);
     }
 
     return this.http.get('http://localhost:3000/categories');
