@@ -2,487 +2,1307 @@
   "questions": [
     {
       "id": 1,
-      "questionLabel": "What is a component in Angular?"
-    },
-    {
+      "cat_id": 1,
+      "questionLabel": "Qui est le protagoniste principal dans One Piece ?"
+      },
+      {
       "id": 2,
-      "questionLabel": "Explain the purpose of the NgModule in Angular."
-    },
-    {
+      "cat_id": 1,
+      "questionLabel": "Quel est le nom de l'attaque signature de Monkey D. Luffy ?"
+      },
+      {
       "id": 3,
-      "questionLabel": "How do you create a new Angular application?"
-    },
-    {
+      "cat_id": 1,
+      "questionLabel": "Où se déroule principalement l'histoire de One Piece ?"
+      },
+      {
       "id": 4,
-      "questionLabel": "What is data binding in Angular, and what are the different types of data binding?"
-    },
-    {
+      "cat_id": 1,
+      "questionLabel": "Qu'est-ce que la Grand Line dans One Piece ?"
+      },
+      {
       "id": 5,
-      "questionLabel": "Explain the difference between {{}} (interpolation) and [property] (property binding) in Angular templates."
-    },
-    {
+      "cat_id": 1,
+      "questionLabel": "Qui est le capitaine des Pirates du Chapeau de Paille en dehors de Luffy ?"
+      },
+      {
       "id": 6,
-      "questionLabel": "What is event binding in Angular, and how is it implemented?"
-    },
-    {
+      "cat_id": 1,
+      "questionLabel": "Quel est le nom du style de combat à trois épées de Zoro dans One Piece ?"
+      },
+      {
       "id": 7,
-      "questionLabel": "What is Angular CLI, and how do you use it to generate components?"
-    },
-    {
+      "cat_id": 1,
+      "questionLabel": "Qui est connu comme le 'Voleur de Chat' dans l'équipage du Chapeau de Paille ?"
+      },
+      {
       "id": 8,
-      "questionLabel": "What is a directive in Angular? Can you name some built-in directives?"
-    },
-    {
+      "cat_id": 1,
+      "questionLabel": "Quelle est la capacité du Fruit du Démon de Portgas D. Ace ?"
+      },
+      {
       "id": 9,
-      "questionLabel": "Explain the purpose of the Angular router and how to configure routes in an Angular application."
-    },
-    {
+      "cat_id": 1,
+      "questionLabel": "Quel est le nom du navire de Luffy dans One Piece ?"
+      },
+      {
       "id": 10,
-      "questionLabel": "What is dependency injection in Angular, and why is it important?"
-    },
-    {
+      "cat_id": 1,
+      "questionLabel": "Qui est l'archéologue dans l'équipage du Chapeau de Paille ?"
+      },
+      {
       "id": 11,
-      "questionLabel": "How do you communicate between parent and child components in Angular?"
-    },
-    {
+      "cat_id": 1,
+      "questionLabel": "Quel est le but de Monkey D. Luffy dans One Piece ?"
+      },
+      {
       "id": 12,
-      "questionLabel": "What is a service in Angular, and when should you use it?"
-    },
-    {
+      "cat_id": 1,
+      "questionLabel": "Qui est le capitaine des Pirates aux Cheveux Rouges ?"
+      },
+      {
       "id": 13,
-      "questionLabel": "What is the purpose of the ngFor directive in Angular?"
-    },
-    {
+      "cat_id": 1,
+      "questionLabel": "Quel est le nom de l'océan mystérieux qui entoure le monde dans One Piece ?"
+      },
+      {
       "id": 14,
-      "questionLabel": "Explain the concept of modules in Angular and their role in organizing an application."
-    },
-    {
+      "cat_id": 1,
+      "questionLabel": "Qui est le médecin dans l'équipage du Chapeau de Paille ?"
+      },
+      {
       "id": 15,
-      "questionLabel": "What is Angular CLI's ng serve command used for?"
-    },
-    {
+      "cat_id": 1,
+      "questionLabel": "Quelle est la signification de la 'Volonté de D.' dans One Piece ?"
+      },
+      {
       "id": 16,
-      "questionLabel": "What is Angular's two-way data binding, and how does it work?"
-    },
-    {
+      "cat_id": 1,
+      "questionLabel": "Qui est l'antagoniste et le capitaine des Pirates de Barbe Noire ?"
+      },
+      {
       "id": 17,
-      "questionLabel": "What is Angular's trackBy function, and why is it used with ngFor?"
-    },
-    {
+      "cat_id": 1,
+      "questionLabel": "Quelle est la devise principale dans le monde de One Piece ?"
+      },
+      {
       "id": 18,
-      "questionLabel": "How can you handle HTTP requests in Angular?"
-    },
-    {
+      "cat_id": 1,
+      "questionLabel": "Quel est le nom de l'île natale de Nami dans One Piece ?"
+      },
+      {
       "id": 19,
-      "questionLabel": "What are Angular pipes, and can you give some examples of built-in pipes?"
-    },
-    {
+      "cat_id": 1,
+      "questionLabel": "Qui est connu sous le nom de 'Roi des Âmes' dans l'équipage du Chapeau de Paille ?"
+      },
+      {
       "id": 20,
-      "questionLabel": "Explain the concept of lazy loading in Angular and when it's beneficial."
+      "cat_id": 1,
+      "questionLabel": "Quel est le concept de Haki dans One Piece, et comment est-il utilisé ?"
+      },
+      {
+        "id": 21,
+        "cat_id": 2,
+        "questionLabel": "Qui est le personnage principal de Naruto?"
+      },
+      {
+        "id": 22,
+        "cat_id": 2,
+        "questionLabel": "Quelle est la quête de Naruto dans la série?"
+      },
+      {
+        "id": 23,
+        "cat_id": 2,
+        "questionLabel": "Quelle est la signification du bandeau frontal de Naruto?"
+      },
+      {
+        "id": 24,
+        "cat_id": 2,
+        "questionLabel": "Qui est l'antagoniste principal de Naruto Shippuden?"
+      },
+      {
+        "id": 25,
+        "cat_id": 2,
+        "questionLabel": "Quel est le village caché de Naruto?"
+      },
+      {
+        "id": 26,
+        "cat_id": 2,
+        "questionLabel": "Quels sont les pouvoirs spéciaux de Sasuke Uchiha?"
+      },
+      {
+        "id": 27,
+        "cat_id": 2,
+        "questionLabel": "Quelle est la technique de jutsu préférée de Kakashi Hatake?"
+      },
+      {
+        "id": 28,
+        "cat_id": 2,
+        "questionLabel": "Quel est le nom du sensei de Naruto?"
+      },
+      {
+        "id": 29,
+        "cat_id": 2,
+        "questionLabel": "Comment Naruto obtient-il son pouvoir?"
+      },
+      {
+        "id": 30,
+        "cat_id": 2,
+        "questionLabel": "Quel est le nom du bijuu à l'intérieur de Naruto?"
+      },
+      {
+        "id": 31,
+        "cat_id": 2,
+        "questionLabel": "Quelle est la technique signature de Naruto?"
+      },
+      {
+        "id": 32,
+        "cat_id": 2,
+        "questionLabel": "Quelle est la relation entre Naruto et Sasuke?"
+      },
+      {
+        "id": 33,
+        "cat_id": 2,
+        "questionLabel": "Quel est le clan de ninja de Sasuke?"
+      },
+      {
+        "id": 34,
+        "cat_id": 2,
+        "questionLabel": "Qui est le père de Naruto?"
+      },
+      {
+        "id": 35,
+        "cat_id": 2,
+        "questionLabel": "Quel est le nom du Hokage précédent dans Naruto?"
+      },
+      {
+        "id": 36,
+        "cat_id": 2,
+        "questionLabel": "Quelle est la signification de l'expression 'Dattebayo' utilisée par Naruto?"
+      },
+      {
+        "id": 37,
+        "cat_id": 2,
+        "questionLabel": "Quel est le village caché de Sasuke?"
+      },
+      {
+        "id": 38,
+        "cat_id": 2,
+        "questionLabel": "Quelle est la véritable identité de Tobi dans Naruto Shippuden?"
+      },
+      {
+        "id": 39,
+        "cat_id": 2,
+        "questionLabel": "Quelle est la technique ultime de Naruto?"
+      },
+      {
+        "id": 40,
+        "cat_id": 2,
+        "questionLabel": "Quel est le nom de la technique d'invocation de Naruto?"
+      },
+    {
+      "id": 41,
+      "cat_id": 3,
+      "questionLabel": "Quel est le nom du père de Vegeta?"
+    },
+    {
+      "id": 42,
+      "cat_id": 3,
+      "questionLabel": "Qui est le prince des Saiyans dans Dragon Ball Z?"
+    },
+    {
+      "id": 43,
+      "cat_id": 3,
+      "questionLabel": "Quelle est la transformation ultime de Son Gohan?"
+    },
+    {
+      "id": 44,
+      "cat_id": 3,
+      "questionLabel": "Quelle est la technique de Krillin qui immobilise les adversaires?"
+    },
+    {
+      "id": 45,
+      "cat_id": 3,
+      "questionLabel": "Comment s'appelle le fils de Vegeta et Bulma?"
+    },
+    {
+      "id": 46,
+      "cat_id": 3,
+      "questionLabel": "Quel est le nom du commandant des forces Ginyu?"
+    },
+    {
+      "id": 47,
+      "cat_id": 3,
+      "questionLabel": "Quelle est la première transformation de Broly?"
+    },
+    {
+      "id": 48,
+      "cat_id": 3,
+      "questionLabel": "Quel est le nom du créateur des Dragon Balls?"
+    },
+    {
+      "id": 49,
+      "cat_id": 3,
+      "questionLabel": "Comment s'appelle la fusion de Goku et Vegeta?"
+    },
+    {
+      "id": 50,
+      "cat_id": 3,
+      "questionLabel": "Quel est le nom du grand-père de Son Goku?"
+    },
+    {
+      "id": 51,
+      "cat_id": 3,
+      "questionLabel": "Quelle est la planète d'origine de Piccolo?"
+    },
+    {
+      "id": 52,
+      "cat_id": 3,
+      "questionLabel": "Qui est le rival de Goku depuis leur enfance?"
+    },
+    {
+      "id": 53,
+      "cat_id": 3,
+      "questionLabel": "Comment s'appelle le Maître de Tortue Géniale?"
+    },
+    {
+      "id": 54,
+      "cat_id": 3,
+      "questionLabel": "Quelle est la forme la plus puissante de Freezer?"
+    },
+    {
+      "id": 55,
+      "cat_id": 3,
+      "questionLabel": "Quelle est la race de Goku?"
+    },
+    {
+      "id": 56,
+      "cat_id": 3,
+      "questionLabel": "Qui est le dieu de la destruction de l'univers 7?"
+    },
+    {
+      "id": 57,
+      "cat_id": 3,
+      "questionLabel": "Quel est le nom de la technique de déplacement instantané de Goku?"
+    },
+    {
+      "id": 58,
+      "cat_id": 3,
+      "questionLabel": "Qui a tué les parents de Son Gohan?"
+    },
+    {
+      "id": 59,
+      "cat_id": 3,
+      "questionLabel": "Quel est le nom du robot de combat de Bulma?"
+    },
+    {
+      "id": 60,
+      "cat_id": 3,
+      "questionLabel": "Quelle est la couleur des cheveux de Super Saiyan Blue?"
     }
-  ],
-  "answers": [
+    ],
+    "answers": [
+      {
+        "questionId": 1,
+        "answerLabel": "Monkey D. Luffy",
+        "isCorrect": true
+        },
+        {
+        "questionId": 1,
+        "answerLabel": "Roronoa Zoro",
+        "isCorrect": false
+        },
+        {
+        "questionId": 1,
+        "answerLabel": "Nami",
+        "isCorrect": false
+        },
+        {
+        "questionId": 1,
+        "answerLabel": "Portgas D. Ace",
+        "isCorrect": false
+        },
+        {
+        "questionId": 2,
+        "answerLabel": "Gomu Gomu no Pistol",
+        "isCorrect": true
+        },
+        {
+        "questionId": 2,
+        "answerLabel": "Santoryu",
+        "isCorrect": false
+        },
+        {
+        "questionId": 2,
+        "answerLabel": "Zoro Style",
+        "isCorrect": false
+        },
+        {
+        "questionId": 2,
+        "answerLabel": "Red Hawk",
+        "isCorrect": false
+        },
+        {
+        "questionId": 3,
+        "answerLabel": "Grand Line",
+        "isCorrect": true
+        },
+        {
+        "questionId": 3,
+        "answerLabel": "East Blue",
+        "isCorrect": false
+        },
+        {
+        "questionId": 3,
+        "answerLabel": "North Blue",
+        "isCorrect": false
+        },
+        {
+        "questionId": 3,
+        "answerLabel": "South Blue",
+        "isCorrect": false
+        },
+        {
+        "questionId": 4,
+        "answerLabel": "Une mer dangereuse et imprévisible qui entoure le monde",
+        "isCorrect": true
+        },
+        {
+        "questionId": 4,
+        "answerLabel": "L'île principale où vivent les Chapeaux de Paille",
+        "isCorrect": false
+        },
+        {
+        "questionId": 4,
+        "answerLabel": "Un océan calme et paisible",
+        "isCorrect": false
+        },
+        {
+        "questionId": 4,
+        "answerLabel": "Un endroit fictif créé par les pirates",
+        "isCorrect": false
+        },
+        {
+        "questionId": 5,
+        "answerLabel": "Roronoa Zoro",
+        "isCorrect": false
+        },
+        {
+        "questionId": 5,
+        "answerLabel": "Nami",
+        "isCorrect": false
+        },
+        {
+        "questionId": 5,
+        "answerLabel": "Sanji",
+        "isCorrect": false
+        },
+        {
+        "questionId": 5,
+        "answerLabel": "Jinbe",
+        "isCorrect": true
+        },
+        {
+        "questionId": 6,
+        "answerLabel": "Santoryu",
+        "isCorrect": true
+        },
+        {
+        "questionId": 6,
+        "answerLabel": "Fish-Man Karate",
+        "isCorrect": false
+        },
+        {
+        "questionId": 6,
+        "answerLabel": "Six Powers",
+        "isCorrect": false
+        },
+        {
+        "questionId": 6,
+        "answerLabel": "Black Leg Style",
+        "isCorrect": false
+        },
+        {
+        "questionId": 7,
+        "answerLabel": "Nico Robin",
+        "isCorrect": true
+        },
+        {
+        "questionId": 7,
+        "answerLabel": "Franky",
+        "isCorrect": false
+        },
+        {
+        "questionId": 7,
+        "answerLabel": "Brook",
+        "isCorrect": false
+        },
+        {
+        "questionId": 7,
+        "answerLabel": "Usopp",
+        "isCorrect": false
+        },
+        {
+        "questionId": 8,
+        "answerLabel": "Mera Mera no Mi (Flame-Flame Fruit)",
+        "isCorrect": true
+        },
+        {
+        "questionId": 8,
+        "answerLabel": "Bara Bara no Mi (Chop-Chop Fruit)",
+        "isCorrect": false
+        },
+        {
+        "questionId": 8,
+        "answerLabel": "Gura Gura no Mi (Tremor-Tremor Fruit)",
+        "isCorrect": false
+        },
+        {
+        "questionId": 8,
+        "answerLabel": "Ope Ope no Mi (Op-Op Fruit)",
+        "isCorrect": false
+        },
+        {
+        "questionId": 9,
+        "answerLabel": "Thousand Sunny",
+        "isCorrect": true
+        },
+        {
+        "questionId": 9,
+        "answerLabel": "Going Merry",
+        "isCorrect": false
+        },
+        {
+        "questionId": 9,
+        "answerLabel": "Red Force",
+        "isCorrect": false
+        },
+        {
+        "questionId": 9,
+        "answerLabel": "Kuja Pirates",
+        "isCorrect": false
+        },
+        {
+        "questionId": 10,
+        "answerLabel": "Nico Robin",
+        "isCorrect": true
+        },
+        {
+        "questionId": 10,
+        "answerLabel": "Chopper",
+        "isCorrect": false
+        },
+        {
+        "questionId": 10,
+        "answerLabel": "Franky",
+        "isCorrect": false
+        },
+        {
+        "questionId": 10,
+        "answerLabel": "Brook",
+        "isCorrect": false
+        },
+        {
+        "questionId": 11,
+        "answerLabel": "Devenir le Roi des Pirates et trouver le One Piece",
+        "isCorrect": true
+        },
+        {
+        "questionId": 11,
+        "answerLabel": "Devenir le plus fort des épéistes",
+        "isCorrect": false
+        },
+        {
+        "questionId": 11,
+        "answerLabel": "Trouver l'All Blue",
+        "isCorrect": false
+        },
+        {
+        "questionId": 11,
+        "answerLabel": "Devenir le meilleur charpentier de navire",
+        "isCorrect": false
+        },
+        {
+        "questionId": 12,
+        "answerLabel": "Shanks",
+        "isCorrect": true
+        },
+        {
+        "questionId": 12,
+        "answerLabel": "Kaido",
+        "isCorrect": false
+        },
+        {
+        "questionId": 12,
+        "answerLabel": "Big Mom",
+        "isCorrect": false
+        },
+        {
+        "questionId": 12,
+        "answerLabel": "Barbe Blanche",
+        "isCorrect": false
+        },
+        {
+        "questionId": 13,
+        "answerLabel": "Calm Belt",
+        "isCorrect": true
+        },
+        {
+        "questionId": 13,
+        "answerLabel": "Red Line",
+        "isCorrect": false
+        },
+        {
+        "questionId": 13,
+        "answerLabel": "Triangle Florian",
+        "isCorrect": false
+        },
+        {
+        "questionId": 13,
+        "answerLabel": "Montagne Inversée",
+        "isCorrect": false
+        },
+        {
+        "questionId": 14,
+        "answerLabel": "Tony Tony Chopper",
+        "isCorrect": true
+        },
+        {
+        "questionId": 14,
+        "answerLabel": "Law",
+        "isCorrect": false
+        },
+        {
+        "questionId": 14,
+        "answerLabel": "Hancock",
+        "isCorrect": false
+        },
+        {
+        "questionId": 14,
+        "answerLabel": "Usopp",
+        "isCorrect": false
+        },
+        {
+        "questionId": 15,
+        "answerLabel": "Il représente une force mystérieuse et puissante que certains personnages possèdent.",
+        "isCorrect": true
+        },
+        {
+        "questionId": 15,
+        "answerLabel": "C'est le nom d'un trésor légendaire.",
+        "isCorrect": false
+        },
+        {
+        "questionId": 15,
+        "answerLabel": "C'est le symbole du Gouvernement Mondial.",
+        "isCorrect": false
+        },
+        {
+        "questionId": 15,
+        "answerLabel": "C'est une organisation secrète dans le monde de One Piece.",
+        "isCorrect": false
+        },
+        {
+        "questionId": 16,
+        "answerLabel": "Marshall D. Teach (Barbe Noire)",
+        "isCorrect": true
+        },
+        {
+        "questionId": 16,
+        "answerLabel": "Akainu",
+        "isCorrect": false
+        },
+        {
+        "questionId": 16,
+        "answerLabel": "Kizaru",
+        "isCorrect": false
+        },
+        {
+        "questionId": 16,
+        "answerLabel": "Aokiji",
+        "isCorrect": false
+        },
+        {
+        "questionId": 17,
+        "answerLabel": "Aventure, Amitié, et Découverte des îles mystérieuses",
+        "isCorrect": true
+        },
+        {
+        "questionId": 17,
+        "answerLabel": "Richesse, Pouvoir, et Conquête",
+        "isCorrect": false
+        },
+        {
+        "questionId": 17,
+        "answerLabel": "Survie, Trahison, et Vengeance",
+        "isCorrect": false
+        },
+        {
+        "questionId": 17,
+        "answerLabel": "Honneur, Devoir, et Loyauté",
+        "isCorrect": false
+        },
+        {
+        "questionId": 18,
+        "answerLabel": "Cocoyasi Village",
+        "isCorrect": true
+        },
+        {
+        "questionId": 18,
+        "answerLabel": "Water 7",
+        "isCorrect": false
+        },
+        {
+        "questionId": 18,
+        "answerLabel": "Loguetown",
+        "isCorrect": false
+        },
+        {
+        "questionId": 18,
+        "answerLabel": "Dressrosa",
+        "isCorrect": false
+        },
+        {
+        "questionId": 19,
+        "answerLabel": "Brook",
+        "isCorrect": false
+        },
+        {
+        "questionId": 19,
+        "answerLabel": "Law",
+        "isCorrect": false
+        },
+        {
+        "questionId": 19,
+        "answerLabel": "Sanji",
+        "isCorrect": true
+        },
+        {
+        "questionId": 19,
+        "answerLabel": "Jinbe",
+        "isCorrect": false
+        },
+        {
+        "questionId": 20,
+        "answerLabel": "Haki est une forme de puissance spirituelle qui peut être utilisée pour la perception extrasensorielle, la protection, et même la domination mentale.",
+        "isCorrect": true
+        },
+        {
+        "questionId": 20,
+        "answerLabel": "Haki est une épée légendaire dans One Piece.",
+        "isCorrect": false
+        },
+        {
+        "questionId": 20,
+        "answerLabel": "Haki est un fruit du démon rare.",
+        "isCorrect": false
+        },
+        {
+        "questionId": 20,
+        "answerLabel": "Haki est une île mystérieuse dans le Nouveau Monde.",
+        "isCorrect": false
+        },
+        {
+          "questionId": 21,
+          "cat_id": 2,
+          "answerLabel": "Naruto Uzumaki est le personnage principal de Naruto."
+        },
+        {
+          "questionId": 21,
+          "cat_id": 2,
+          "answerLabel": "Naruto Uzumaki est le protagoniste de la série."
+        },
+        {
+          "questionId": 22,
+          "cat_id": 2,
+          "answerLabel": "La quête de Naruto est de devenir Hokage et d'obtenir la reconnaissance de son village."
+        },
+        {
+          "questionId": 22,
+          "cat_id": 2,
+          "answerLabel": "Naruto recherche la puissance pour protéger ses amis et son village."
+        },
+        {
+          "questionId": 23,
+          "cat_id": 2,
+          "answerLabel": "Le bandeau frontal de Naruto symbolise son appartenance au village de Konoha."
+        },
+        {
+          "questionId": 23,
+          "cat_id": 2,
+          "answerLabel": "Le bandeau frontal de Naruto représente la volonté du feu."
+        },
+        {
+          "questionId": 24,
+          "cat_id": 2,
+          "answerLabel": "L'antagoniste principal de Naruto Shippuden est Kaguya Ôtsutsuki."
+        },
+        {
+          "questionId": 24,
+          "cat_id": 2,
+          "answerLabel": "Madara Uchiha est l'un des principaux antagonistes de Naruto Shippuden."
+        },
+        {
+          "questionId": 25,
+          "cat_id": 2,
+          "answerLabel": "Le village caché de Naruto est Konoha, également appelé Konohagakure."
+        },
+        {
+          "questionId": 25,
+          "cat_id": 2,
+          "answerLabel": "Naruto provient du village caché de Konoha, situé dans le Pays du Feu."
+        },
+        {
+          "questionId": 26,
+          "cat_id": 2,
+          "answerLabel": "Sasuke Uchiha possède le Sharingan et le Rinnegan, des pouvoirs oculaires redoutables."
+        },
+        {
+          "questionId": 26,
+          "cat_id": 2,
+          "answerLabel": "Les pouvoirs spéciaux de Sasuke Uchiha sont liés à son clan, le clan Uchiha."
+        },
+        {
+          "questionId": 27,
+          "cat_id": 2,
+          "answerLabel": "La technique de jutsu préférée de Kakashi Hatake est le Chidori."
+        },
+        {
+          "questionId": 27,
+          "cat_id": 2,
+          "answerLabel": "Kakashi Hatake est connu pour sa maîtrise du Sharingan et de nombreuses techniques de jutsu."
+        },
+        {
+          "questionId": 28,
+          "cat_id": 2,
+          "answerLabel": "Le sensei de Naruto est Kakashi Hatake."
+        },
+        {
+          "questionId": 28,
+          "cat_id": 2,
+          "answerLabel": "Naruto est formé par plusieurs sensei au fil de la série, dont Kakashi Hatake."
+        },
+        {
+          "questionId": 29,
+          "cat_id": 2,
+          "answerLabel": "Naruto obtient son pouvoir grâce à l'incarnation de Kurama, le renard à neuf queues."
+        },
+        {
+          "questionId": 29,
+          "cat_id": 2,
+          "answerLabel": "Naruto hérite du chakra de Kurama, ce qui lui confère une grande puissance."
+        },
+        {
+          "questionId": 30,
+          "cat_id": 2,
+          "answerLabel": "Le bijuu à l'intérieur de Naruto est Kurama, le renard à neuf queues."
+        },
+        {
+          "questionId": 30,
+          "cat_id": 2,
+          "answerLabel": "Naruto est l'hôte de Kurama, un puissant bijuu."
+        },
+        {
+          "questionId": 31,
+          "cat_id": 2,
+          "answerLabel": "La technique signature de Naruto est le Rasengan."
+        },
+        {
+          "questionId": 31,
+          "cat_id": 2,
+          "answerLabel": "Naruto maîtrise le Rasengan, une technique de jutsu créée par Minato Namikaze."
+        },
+        {
+          "questionId": 32,
+          "cat_id": 2,
+          "answerLabel": "La relation entre Naruto et Sasuke est complexe, allant de rivaux à amis proches et ennemis à certains moments."
+        },
+        {
+          "questionId": 32,
+          "cat_id": 2,
+          "answerLabel": "Naruto et Sasuke partagent un lien fort en tant qu'amis d'enfance et ninjas d'élite."
+        },
+        {
+          "questionId": 33,
+          "cat_id": 2,
+          "answerLabel": "Sasuke Uchiha appartient au clan Uchiha, un clan de ninjas puissants."
+        },
+        {
+          "questionId": 33,
+          "cat_id": 2,
+          "answerLabel": "Les Uchiha sont connus pour leur Sharingan et leur histoire complexe."
+        },
+        {
+          "questionId": 34,
+          "cat_id": 2,
+          "answerLabel": "Le père de Naruto est Minato Namikaze, le Quatrième Hokage."
+        },
+        {
+          "questionId": 34,
+          "cat_id": 2,
+          "answerLabel": "Minato Namikaze est le père de Naruto et un Hokage respecté de Konoha."
+        },
+        {
+          "questionId": 35,
+          "cat_id": 2,
+          "answerLabel": "Le Hokage précédent dans Naruto est Hiruzen Sarutobi, le Troisième Hokage."
+        },
+        {
+          "questionId": 35,
+          "cat_id": 2,
+          "answerLabel": "Hiruzen Sarutobi était le Troisième Hokage avant la nomination de Minato Namikaze."
+        },
+        {
+          "questionId": 36,
+          "cat_id": 2,
+          "answerLabel": "L'expression 'Dattebayo' utilisée par Naruto est un ajout distinctif à ses phrases, n'ayant pas de signification particulière."
+        },
+        {
+          "questionId": 36,
+          "cat_id": 2,
+          "answerLabel": "'Dattebayo' est une expression utilisée par Naruto pour renforcer son discours, semblable à 'c'est vrai' ou 'tu sais.'"
+        },
+        {
+          "questionId": 37,
+          "cat_id": 2,
+          "answerLabel": "Sasuke provient du village caché de Konoha, tout comme Naruto."
+        },
+        {
+          "questionId": 37,
+          "cat_id": 2,
+          "answerLabel": "Sasuke Uchiha est originaire de Konoha, tout comme Naruto."
+        },
+        {
+          "questionId": 38,
+          "cat_id": 2,
+          "answerLabel": "La véritable identité de Tobi dans Naruto Shippuden est Obito Uchiha."
+        },
+        {
+          "questionId": 38,
+          "cat_id": 2,
+          "answerLabel": "Obito Uchiha se cache sous l'identité de Tobi dans Naruto Shippuden."
+        },
+        {
+          "questionId": 39,
+          "cat_id": 2,
+          "answerLabel": "La technique ultime de Naruto est le Rasengan combiné au chakra de Kurama, le mode Bijuu."
+        },
+        {
+          "questionId": 39,
+          "cat_id": 2,
+          "answerLabel": "Naruto atteint son apogée en utilisant le Rasengan et le mode Bijuu."
+        },
+        {
+          "questionId": 40,
+          "cat_id": 2,
+          "answerLabel": "La technique d'invocation de Naruto est la technique de l'Invocation des Grenouilles."
+        },
+        {
+          "questionId": 40,
+          "cat_id": 2,
+          "answerLabel": "Naruto peut invoquer des grenouilles pour l'aider au combat."
+        },
     {
-      "questionId": 1,
-      "answerLabel": "A reusable building block for the user interface",
+      "questionId": 41,
+      "answerLabel": "King Vegeta",
       "isCorrect": true
     },
     {
-      "questionId": 1,
-      "answerLabel": "A style in Angular",
+      "questionId": 41,
+      "answerLabel": "Nappa",
       "isCorrect": false
     },
     {
-      "questionId": 1,
-      "answerLabel": "A service for handling HTTP requests",
+      "questionId": 41,
+      "answerLabel": "Raditz",
       "isCorrect": false
     },
     {
-      "questionId": 1,
-      "answerLabel": "A routing configuration",
+      "questionId": 41,
+      "answerLabel": "Bardock",
       "isCorrect": false
     },
     {
-      "questionId": 2,
-      "answerLabel": "NgModule is used to declare and configure modules in Angular applications.",
+      "questionId": 42,
+      "answerLabel": "Vegeta",
       "isCorrect": true
     },
     {
-      "questionId": 2,
-      "answerLabel": "NgModule is a component in Angular.",
+      "questionId": 42,
+      "answerLabel": "Raditz",
       "isCorrect": false
     },
     {
-      "questionId": 2,
-      "answerLabel": "NgModule is used for data binding in Angular.",
+      "questionId": 42,
+      "answerLabel": "Nappa",
       "isCorrect": false
     },
     {
-      "questionId": 2,
-      "answerLabel": "NgModule is a directive in Angular.",
+      "questionId": 42,
+      "answerLabel": "Bardock",
       "isCorrect": false
     },
     {
-      "questionId": 3,
-      "answerLabel": "You can create a new Angular application using the Angular CLI by running 'ng new app-name'.",
+      "questionId": 43,
+      "answerLabel": "Ultimate Gohan",
       "isCorrect": true
     },
     {
-      "questionId": 3,
-      "answerLabel": "You can create a new Angular application by writing HTML and CSS files.",
+      "questionId": 43,
+      "answerLabel": "Super Saiyan",
       "isCorrect": false
     },
     {
-      "questionId": 3,
-      "answerLabel": "You can create a new Angular application using pure JavaScript.",
+      "questionId": 43,
+      "answerLabel": "Great Saiyaman",
       "isCorrect": false
     },
     {
-      "questionId": 3,
-      "answerLabel": "You can create a new Angular application using Python.",
+      "questionId": 43,
+      "answerLabel": "Kid Gohan",
       "isCorrect": false
     },
     {
-      "questionId": 4,
-      "answerLabel": "Data binding in Angular is a mechanism for synchronizing data between the component and the view.",
+      "questionId": 44,
+      "answerLabel": "Kienzan (Destructo Disc)",
       "isCorrect": true
     },
     {
-      "questionId": 4,
-      "answerLabel": "Data binding in Angular is used for creating components.",
+      "questionId": 44,
+      "answerLabel": "Kamehameha",
       "isCorrect": false
     },
     {
-      "questionId": 4,
-      "answerLabel": "Data binding in Angular is a routing feature.",
+      "questionId": 44,
+      "answerLabel": "Solar Flare",
       "isCorrect": false
     },
     {
-      "questionId": 4,
-      "answerLabel": "Data binding in Angular is only available for services.",
+      "questionId": 44,
+      "answerLabel": "Spirit Bomb",
       "isCorrect": false
     },
     {
-      "questionId": 5,
-      "answerLabel": "{{}} (interpolation) is used for displaying dynamic data in the template.",
+      "questionId": 45,
+      "answerLabel": "Trunks",
+      "isCorrect": false
+    },
+    {
+      "questionId": 45,
+      "answerLabel": "Gohan",
+      "isCorrect": false
+    },
+    {
+      "questionId": 45,
+      "answerLabel": "Goten",
       "isCorrect": true
     },
     {
-      "questionId": 5,
-      "answerLabel": "[property] (property binding) is used for displaying dynamic data in the template.",
+      "questionId": 45,
+      "answerLabel": "Krillin",
       "isCorrect": false
     },
     {
-      "questionId": 5,
-      "answerLabel": "{{}} (interpolation) is used for creating CSS styles.",
-      "isCorrect": false
-    },
-    {
-      "questionId": 5,
-      "answerLabel": "[property] (property binding) is used for creating services.",
-      "isCorrect": false
-    },
-    {
-      "questionId": 6,
-      "answerLabel": "Event binding in Angular is used to capture and respond to user interactions like clicks and keystrokes.",
+      "questionId": 46,
+      "answerLabel": "Captain Ginyu",
       "isCorrect": true
     },
     {
-      "questionId": 6,
-      "answerLabel": "Event binding in Angular is used for defining component styles.",
+      "questionId": 46,
+      "answerLabel": "Recoome",
       "isCorrect": false
     },
     {
-      "questionId": 6,
-      "answerLabel": "Event binding in Angular is used for defining routes.",
+      "questionId": 46,
+      "answerLabel": "Jeice",
       "isCorrect": false
     },
     {
-      "questionId": 6,
-      "answerLabel": "Event binding in Angular is used for dependency injection.",
+      "questionId": 46,
+      "answerLabel": "Burter",
       "isCorrect": false
     },
     {
-      "questionId": 7,
-      "answerLabel": "Angular CLI (Command Line Interface) is a command-line tool for creating, building, and deploying Angular applications.",
+      "questionId": 47,
+      "answerLabel": "Legendary Super Saiyan",
       "isCorrect": true
     },
     {
-      "questionId": 7,
-      "answerLabel": "Angular CLI is a component in Angular applications.",
+      "questionId": 47,
+      "answerLabel": "Super Saiyan",
       "isCorrect": false
     },
     {
-      "questionId": 7,
-      "answerLabel": "Angular CLI is a directive in Angular applications.",
+      "questionId": 47,
+      "answerLabel": "Super Saiyan 2",
       "isCorrect": false
     },
     {
-      "questionId": 7,
-      "answerLabel": "Angular CLI is a service for handling HTTP requests.",
+      "questionId": 47,
+      "answerLabel": "Super Saiyan 3",
       "isCorrect": false
     },
     {
-      "questionId": 8,
-      "answerLabel": "A directive in Angular is a marker on a DOM element that tells Angular to do something with that element.",
+      "questionId": 48,
+      "answerLabel": "Kami",
       "isCorrect": true
     },
     {
-      "questionId": 8,
-      "answerLabel": "A directive in Angular is a component.",
+      "questionId": 48,
+      "answerLabel": "Dende",
       "isCorrect": false
     },
     {
-      "questionId": 8,
-      "answerLabel": "A directive in Angular is a service.",
+      "questionId": 48,
+      "answerLabel": "Shenron",
       "isCorrect": false
     },
     {
-      "questionId": 8,
-      "answerLabel": "A directive in Angular is a module.",
+      "questionId": 48,
+      "answerLabel": "Porunga",
       "isCorrect": false
     },
     {
-      "questionId": 9,
-      "answerLabel": "The Angular router is a library for navigating between views and components.",
+      "questionId": 49,
+      "answerLabel": "Gogeta",
       "isCorrect": true
     },
     {
-      "questionId": 9,
-      "answerLabel": "The Angular router is used for handling HTTP requests.",
+      "questionId": 49,
+      "answerLabel": "Vegito",
       "isCorrect": false
     },
     {
-      "questionId": 9,
-      "answerLabel": "The Angular router is used for data binding in Angular.",
+      "questionId": 49,
+      "answerLabel": "Gotenks",
       "isCorrect": false
     },
     {
-      "questionId": 9,
-      "answerLabel": "The Angular router is used for event binding in Angular.",
+      "questionId": 49,
+      "answerLabel": "Trunten",
       "isCorrect": false
     },
     {
-      "questionId": 10,
-      "answerLabel": "Dependency injection in Angular is a design pattern used to provide instances of classes with their dependencies.",
+      "questionId": 50,
+      "answerLabel": "Grandpa Gohan",
       "isCorrect": true
     },
     {
-      "questionId": 10,
-      "answerLabel": "Dependency injection in Angular is a way to inject styles into components.",
+      "questionId": 50,
+      "answerLabel": "Master Roshi",
       "isCorrect": false
     },
     {
-      "questionId": 10,
-      "answerLabel": "Dependency injection in Angular is a way to create routes in an application.",
+      "questionId": 50,
+      "answerLabel": "King Kai",
       "isCorrect": false
     },
     {
-      "questionId": 10,
-      "answerLabel": "Dependency injection in Angular is used for data binding.",
+      "questionId": 50,
+      "answerLabel": "King Yemma",
       "isCorrect": false
     },
     {
-      "questionId": 11,
-      "answerLabel": "Communication between parent and child components in Angular can be achieved through input properties and output events.",
+      "questionId": 51,
+      "answerLabel": "Namek",
       "isCorrect": true
     },
     {
-      "questionId": 11,
-      "answerLabel": "Communication between parent and child components in Angular is not possible.",
+      "questionId": 51,
+      "answerLabel": "Earth",
       "isCorrect": false
     },
     {
-      "questionId": 11,
-      "answerLabel": "Communication between parent and child components in Angular can only be done using services.",
+      "questionId": 51,
+      "answerLabel": "Vegeta",
       "isCorrect": false
     },
     {
-      "questionId": 11,
-      "answerLabel": "Communication between parent and child components in Angular can only be done using event binding.",
+      "questionId": 51,
+      "answerLabel": "Frieza",
       "isCorrect": false
     },
     {
-      "questionId": 12,
-      "answerLabel": "A service in Angular is a class that provides specific functionality and can be injected into components and other services.",
+      "questionId": 52,
+      "answerLabel": "Vegeta",
+      "isCorrect": false
+    },
+    {
+      "questionId": 52,
+      "answerLabel": "Piccolo",
+      "isCorrect": false
+    },
+    {
+      "questionId": 52,
+      "answerLabel": "Raditz",
+      "isCorrect": false
+    },
+    {
+      "questionId": 52,
+      "answerLabel": "Krillin",
       "isCorrect": true
     },
     {
-      "questionId": 12,
-      "answerLabel": "A service in Angular is a type of component.",
-      "isCorrect": false
-    },
-    {
-      "questionId": 12,
-      "answerLabel": "A service in Angular is a type of directive.",
-      "isCorrect": false
-    },
-    {
-      "questionId": 12,
-      "answerLabel": "A service in Angular is a type of module.",
-      "isCorrect": false
-    },
-    {
-      "questionId": 13,
-      "answerLabel": "The ngFor directive in Angular is used for iterating over a list of items and rendering them in the template.",
+      "questionId": 53,
+      "answerLabel": "Master Roshi",
       "isCorrect": true
     },
     {
-      "questionId": 13,
-      "answerLabel": "The ngFor directive in Angular is used for defining routes.",
+      "questionId": 53,
+      "answerLabel": "Master Shen",
       "isCorrect": false
     },
     {
-      "questionId": 13,
-      "answerLabel": "The ngFor directive in Angular is used for handling HTTP requests.",
+      "questionId": 53,
+      "answerLabel": "Korin",
       "isCorrect": false
     },
     {
-      "questionId": 13,
-      "answerLabel": "The ngFor directive in Angular is used for event binding.",
+      "questionId": 53,
+      "answerLabel": "Yajirobe",
       "isCorrect": false
     },
     {
-      "questionId": 14,
-      "answerLabel": "Modules in Angular are used to organize the application into cohesive blocks of functionality.",
+      "questionId": 54,
+      "answerLabel": "100% Full Power",
+      "isCorrect": false
+    },
+    {
+      "questionId": 54,
+      "answerLabel": "Final Form",
+      "isCorrect": false
+    },
+    {
+      "questionId": 54,
+      "answerLabel": "Golden Frieza",
       "isCorrect": true
     },
     {
-      "questionId": 14,
-      "answerLabel": "Modules in Angular are used for data binding.",
+      "questionId": 54,
+      "answerLabel": "Second Form",
       "isCorrect": false
     },
     {
-      "questionId": 14,
-      "answerLabel": "Modules in Angular are used for routing configuration.",
-      "isCorrect": false
-    },
-    {
-      "questionId": 14,
-      "answerLabel": "Modules in Angular are used for handling HTTP requests.",
-      "isCorrect": false
-    },
-    {
-      "questionId": 15,
-      "answerLabel": "Angular CLI's 'ng serve' command is used to compile and serve an Angular application locally for development purposes.",
+      "questionId": 55,
+      "answerLabel": "Saiyan",
       "isCorrect": true
     },
     {
-      "questionId": 15,
-      "answerLabel": "Angular CLI's 'ng serve' command is used to deploy an Angular application to a production server.",
+      "questionId": 55,
+      "answerLabel": "Namekian",
       "isCorrect": false
     },
     {
-      "questionId": 15,
-      "answerLabel": "Angular CLI's 'ng serve' command is used for data binding.",
+      "questionId": 55,
+      "answerLabel": "Frieza Race",
       "isCorrect": false
     },
     {
-      "questionId": 15,
-      "answerLabel": "Angular CLI's 'ng serve' command is used for event binding.",
+      "questionId": 55,
+      "answerLabel": "Android",
       "isCorrect": false
     },
     {
-      "questionId": 16,
-      "answerLabel": "Angular's two-way data binding combines property binding and event binding to automatically keep the view and the component data in sync.",
+      "questionId": 56,
+      "answerLabel": "Beerus",
       "isCorrect": true
     },
     {
-      "questionId": 16,
-      "answerLabel": "Angular's two-way data binding is used for routing configuration.",
+      "questionId": 56,
+      "answerLabel": "Champa",
       "isCorrect": false
     },
     {
-      "questionId": 16,
-      "answerLabel": "Angular's two-way data binding is used for dependency injection.",
+      "questionId": 56,
+      "answerLabel": "Whis",
       "isCorrect": false
     },
     {
-      "questionId": 16,
-      "answerLabel": "Angular's two-way data binding is used for handling HTTP requests.",
+      "questionId": 56,
+      "answerLabel": "Vados",
       "isCorrect": false
     },
     {
-      "questionId": 17,
-      "answerLabel": "Angular's trackBy function is used to improve the performance of ngFor by identifying unique items in the iteration.",
+      "questionId": 57,
+      "answerLabel": "Instant Transmission",
       "isCorrect": true
     },
     {
-      "questionId": 17,
-      "answerLabel": "Angular's trackBy function is used for defining routes.",
+      "questionId": 57,
+      "answerLabel": "Solar Flare",
       "isCorrect": false
     },
     {
-      "questionId": 17,
-      "answerLabel": "Angular's trackBy function is used for event binding.",
+      "questionId": 57,
+      "answerLabel": "Kamehameha",
       "isCorrect": false
     },
     {
-      "questionId": 17,
-      "answerLabel": "Angular's trackBy function is used for dependency injection.",
+      "questionId": 57,
+      "answerLabel": "Destructo Disc",
       "isCorrect": false
     },
     {
-      "questionId": 18,
-      "answerLabel": "HTTP requests in Angular can be handled using the HttpClient module to send requests and receive responses from a server.",
+      "questionId": 58,
+      "answerLabel": "Raditz",
       "isCorrect": true
     },
     {
-      "questionId": 18,
-      "answerLabel": "HTTP requests in Angular can be handled using the ngFor directive.",
+      "questionId": 58,
+      "answerLabel": "Frieza",
       "isCorrect": false
     },
     {
-      "questionId": 18,
-      "answerLabel": "HTTP requests in Angular can be handled using dependency injection.",
+      "questionId": 58,
+      "answerLabel": "Cell",
       "isCorrect": false
     },
     {
-      "questionId": 18,
-      "answerLabel": "HTTP requests in Angular can be handled using the trackBy function.",
+      "questionId": 58,
+      "answerLabel": "Majin Buu",
       "isCorrect": false
     },
     {
-      "questionId": 19,
-      "answerLabel": "Angular pipes are used for transforming and formatting data in templates.",
+      "questionId": 59,
+      "answerLabel": "Puar",
       "isCorrect": true
     },
     {
-      "questionId": 19,
-      "answerLabel": "Angular pipes are used for defining routes.",
+      "questionId": 59,
+      "answerLabel": "Oolong",
       "isCorrect": false
     },
     {
-      "questionId": 19,
-      "answerLabel": "Angular pipes are used for event binding.",
+      "questionId": 59,
+      "answerLabel": "Nimbus",
       "isCorrect": false
     },
     {
-      "questionId": 19,
-      "answerLabel": "Angular pipes are used for dependency injection.",
+      "questionId": 59,
+      "answerLabel": "Capsule Corp",
       "isCorrect": false
     },
     {
-      "questionId": 20,
-      "answerLabel": "Lazy loading in Angular is a technique for loading modules only when they are needed, improving application performance.",
+      "questionId": 60,
+      "answerLabel": "Blue",
       "isCorrect": true
     },
     {
-      "questionId": 20,
-      "answerLabel": "Lazy loading in Angular is a technique for handling HTTP requests.",
+      "questionId": 60,
+      "answerLabel": "Red",
       "isCorrect": false
     },
     {
-      "questionId": 20,
-      "answerLabel": "Lazy loading in Angular is a technique for event binding.",
+      "questionId": 60,
+      "answerLabel": "Green",
       "isCorrect": false
     },
     {
-      "questionId": 20,
-      "answerLabel": "Lazy loading in Angular is a technique for defining routes.",
+      "questionId": 60,
+      "answerLabel": "Yellow",
       "isCorrect": false
     }
-  ],
+    ],
   "users": [
     {
       "id": 1,
@@ -493,6 +1313,20 @@
       "id": 2,
       "username": "user",
       "password": "user"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryLabel": "One Piece"
+    },
+    {
+      "id": 2,
+      "categoryLabel": "Naruto"
+    },
+    {
+      "id": 3,
+      "categoryLabel": "Dragon Ball Z"
     }
   ]
 }
