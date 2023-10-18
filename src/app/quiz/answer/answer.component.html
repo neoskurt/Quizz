@@ -3,8 +3,8 @@
     <button
       [disabled]="isQuizFinished"
       (click)="addAnswer(answer?.answerLabel, questionId)"
-      [class.answer_container--selected]="isAnswerSelected(answer?.answerLabel, questionId)"
-    >
+      [class.answer_container--selected]="isAnswerSelected(answer?.answerLabel, questionId)">
+      
       <span>{{ getAnswerLetter(j) }}.</span> {{ answer?.answerLabel }}
     </button>
   </li>
