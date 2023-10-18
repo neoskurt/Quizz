@@ -704,203 +704,203 @@
     },
     {
       "questionId": 21,
-      "cat_id": 2,
-      "answerLabel": "Naruto Uzumaki est le personnage principal de Naruto."
+      "isCorrect": true,
+      "answerLabel": "Naruto Uzumaki est le protagoniste de Naruto."
     },
     {
       "questionId": 21,
-      "cat_id": 2,
-      "answerLabel": "Naruto Uzumaki est le protagoniste de la série."
+      "isCorrect": false,
+      "answerLabel": "Sasuke Uchiha est le protagoniste de Naruto."
     },
     {
       "questionId": 22,
-      "cat_id": 2,
-      "answerLabel": "La quête de Naruto est de devenir Hokage et d'obtenir la reconnaissance de son village."
+      "isCorrect": true,
+      "answerLabel": "Le mentor de Naruto est Kakashi Hatake."
     },
     {
       "questionId": 22,
-      "cat_id": 2,
-      "answerLabel": "Naruto recherche la puissance pour protéger ses amis et son village."
+      "isCorrect": false,
+      "answerLabel": "Le mentor de Naruto est Sakura Haruno."
     },
     {
       "questionId": 23,
-      "cat_id": 2,
-      "answerLabel": "Le bandeau frontal de Naruto symbolise son appartenance au village de Konoha."
-    },
-    {
-      "questionId": 23,
-      "cat_id": 2,
-      "answerLabel": "Le bandeau frontal de Naruto représente la volonté du feu."
-    },
-    {
-      "questionId": 24,
-      "cat_id": 2,
-      "answerLabel": "L'antagoniste principal de Naruto Shippuden est Kaguya Ôtsutsuki."
-    },
-    {
-      "questionId": 24,
-      "cat_id": 2,
-      "answerLabel": "Madara Uchiha est l'un des principaux antagonistes de Naruto Shippuden."
-    },
-    {
-      "questionId": 25,
-      "cat_id": 2,
-      "answerLabel": "Le village caché de Naruto est Konoha, également appelé Konohagakure."
-    },
-    {
-      "questionId": 25,
-      "cat_id": 2,
-      "answerLabel": "Naruto provient du village caché de Konoha, situé dans le Pays du Feu."
-    },
-    {
-      "questionId": 26,
-      "cat_id": 2,
-      "answerLabel": "Sasuke Uchiha possède le Sharingan et le Rinnegan, des pouvoirs oculaires redoutables."
-    },
-    {
-      "questionId": 26,
-      "cat_id": 2,
-      "answerLabel": "Les pouvoirs spéciaux de Sasuke Uchiha sont liés à son clan, le clan Uchiha."
-    },
-    {
-      "questionId": 27,
-      "cat_id": 2,
-      "answerLabel": "La technique de jutsu préférée de Kakashi Hatake est le Chidori."
-    },
-    {
-      "questionId": 27,
-      "cat_id": 2,
-      "answerLabel": "Kakashi Hatake est connu pour sa maîtrise du Sharingan et de nombreuses techniques de jutsu."
-    },
-    {
-      "questionId": 28,
-      "cat_id": 2,
-      "answerLabel": "Le sensei de Naruto est Kakashi Hatake."
-    },
-    {
-      "questionId": 28,
-      "cat_id": 2,
-      "answerLabel": "Naruto est formé par plusieurs sensei au fil de la série, dont Kakashi Hatake."
-    },
-    {
-      "questionId": 29,
-      "cat_id": 2,
+      "isCorrect": true,
       "answerLabel": "Naruto obtient son pouvoir grâce à l'incarnation de Kurama, le renard à neuf queues."
     },
     {
-      "questionId": 29,
-      "cat_id": 2,
-      "answerLabel": "Naruto hérite du chakra de Kurama, ce qui lui confère une grande puissance."
+      "questionId": 23,
+      "isCorrect": false,
+      "answerLabel": "Naruto obtient son pouvoir grâce à une pierre magique."
     },
     {
-      "questionId": 30,
-      "cat_id": 2,
+      "questionId": 24,
+      "isCorrect": true,
       "answerLabel": "Le bijuu à l'intérieur de Naruto est Kurama, le renard à neuf queues."
     },
     {
-      "questionId": 30,
-      "cat_id": 2,
-      "answerLabel": "Naruto est l'hôte de Kurama, un puissant bijuu."
+      "questionId": 24,
+      "isCorrect": false,
+      "answerLabel": "Le bijuu à l'intérieur de Naruto est Shukaku, le tanuki à une queue."
     },
     {
-      "questionId": 31,
-      "cat_id": 2,
+      "questionId": 25,
+      "isCorrect": true,
       "answerLabel": "La technique signature de Naruto est le Rasengan."
     },
     {
-      "questionId": 31,
-      "cat_id": 2,
-      "answerLabel": "Naruto maîtrise le Rasengan, une technique de jutsu créée par Minato Namikaze."
+      "questionId": 25,
+      "isCorrect": false,
+      "answerLabel": "La technique signature de Naruto est la Boule de Feu."
     },
     {
-      "questionId": 32,
-      "cat_id": 2,
+      "questionId": 26,
+      "isCorrect": true,
       "answerLabel": "La relation entre Naruto et Sasuke est complexe, allant de rivaux à amis proches et ennemis à certains moments."
     },
     {
-      "questionId": 32,
-      "cat_id": 2,
-      "answerLabel": "Naruto et Sasuke partagent un lien fort en tant qu'amis d'enfance et ninjas d'élite."
+      "questionId": 26,
+      "isCorrect": false,
+      "answerLabel": "La relation entre Naruto et Sasuke est toujours amicale."
     },
     {
-      "questionId": 33,
-      "cat_id": 2,
+      "questionId": 27,
+      "isCorrect": true,
       "answerLabel": "Sasuke Uchiha appartient au clan Uchiha, un clan de ninjas puissants."
     },
     {
-      "questionId": 33,
-      "cat_id": 2,
-      "answerLabel": "Les Uchiha sont connus pour leur Sharingan et leur histoire complexe."
+      "questionId": 27,
+      "isCorrect": false,
+      "answerLabel": "Sasuke Uchiha n'appartient à aucun clan."
     },
     {
-      "questionId": 34,
-      "cat_id": 2,
+      "questionId": 28,
+      "isCorrect": true,
       "answerLabel": "Le père de Naruto est Minato Namikaze, le Quatrième Hokage."
     },
     {
-      "questionId": 34,
-      "cat_id": 2,
-      "answerLabel": "Minato Namikaze est le père de Naruto et un Hokage respecté de Konoha."
+      "questionId": 28,
+      "isCorrect": false,
+      "answerLabel": "Le père de Naruto est Jiraiya, l'ermite pervers."
     },
     {
-      "questionId": 35,
-      "cat_id": 2,
+      "questionId": 29,
+      "isCorrect": true,
       "answerLabel": "Le Hokage précédent dans Naruto est Hiruzen Sarutobi, le Troisième Hokage."
     },
     {
+      "questionId": 29,
+      "isCorrect": false,
+      "answerLabel": "Le Hokage précédent dans Naruto est Tsunade, la Cinquième Hokage."
+    },
+    {
+      "questionId": 30,
+      "isCorrect": true,
+      "answerLabel": "L'expression 'Dattebayo' utilisée par Naruto est un ajout de personnalité à ses phrases, n'ayant pas de signification précise."
+    },
+    {
+      "questionId": 30,
+      "isCorrect": false,
+      "answerLabel": "L'expression 'Dattebayo' signifie 'Je vais devenir Hokage'."
+    },
+    {
+      "questionId": 31,
+      "isCorrect": true,
+      "answerLabel": "Sasuke Uchiha provient du clan Uchiha du village caché de Konoha."
+    },
+    {
+      "questionId": 31,
+      "isCorrect": false,
+      "answerLabel": "Sasuke Uchiha provient du clan Uzumaki du village caché de Suna."
+    },
+    {
+      "questionId": 32,
+      "isCorrect": true,
+      "answerLabel": "La véritable identité de Tobi dans Naruto Shippuden est Uchiha Obito."
+    },
+    {
+      "questionId": 32,
+      "isCorrect": false,
+      "answerLabel": "La véritable identité de Tobi est Kakashi Hatake."
+    },
+    {
+      "questionId": 33,
+      "isCorrect": true,
+      "answerLabel": "La technique ultime de Naruto est le Rasen Shuriken."
+    },
+    {
+      "questionId": 33,
+      "isCorrect": false,
+      "answerLabel": "La technique ultime de Naruto est le Kamehameha."
+    },
+    {
+      "questionId": 34,
+      "isCorrect": true,
+      "answerLabel": "La technique d'invocation de Naruto lui permet de faire appel à des crapauds, en particulier Gamabunta."
+    },
+    {
+      "questionId": 34,
+      "isCorrect": false,
+      "answerLabel": "La technique d'invocation de Naruto lui permet de faire appel à des dragons."
+    },
+    {
       "questionId": 35,
-      "cat_id": 2,
-      "answerLabel": "Hiruzen Sarutobi était le Troisième Hokage avant la nomination de Minato Namikaze."
+      "isCorrect": true,
+      "answerLabel": "Le village caché de Naruto est Konohagakure, également connu sous le nom de Konoha."
+    },
+    {
+      "questionId": 35,
+      "isCorrect": false,
+      "answerLabel": "Le village caché de Naruto est Sunagakure."
     },
     {
       "questionId": 36,
-      "cat_id": 2,
-      "answerLabel": "L'expression 'Dattebayo' utilisée par Naruto est un ajout distinctif à ses phrases, n'ayant pas de signification particulière."
+      "isCorrect": true,
+      "answerLabel": "Les trois sannin légendaires dans Naruto sont Jiraiya, Orochimaru et Tsunade."
     },
     {
       "questionId": 36,
-      "cat_id": 2,
-      "answerLabel": "'Dattebayo' est une expression utilisée par Naruto pour renforcer son discours, semblable à 'c'est vrai' ou 'tu sais.'"
+      "isCorrect": false,
+      "answerLabel": "Les trois sannin légendaires dans Naruto sont Naruto, Sasuke et Sakura."
     },
     {
       "questionId": 37,
-      "cat_id": 2,
-      "answerLabel": "Sasuke provient du village caché de Konoha, tout comme Naruto."
+      "isCorrect": true,
+      "answerLabel": "Le fils du Quatrième Hokage dans Naruto est Minato Namikaze, également connu sous le nom de Naruto."
     },
     {
       "questionId": 37,
-      "cat_id": 2,
-      "answerLabel": "Sasuke Uchiha est originaire de Konoha, tout comme Naruto."
+      "isCorrect": false,
+      "answerLabel": "Le fils du Quatrième Hokage dans Naruto est Sasuke Uchiha."
     },
     {
       "questionId": 38,
-      "cat_id": 2,
-      "answerLabel": "La véritable identité de Tobi dans Naruto Shippuden est Obito Uchiha."
+      "isCorrect": true,
+      "answerLabel": "Dans Naruto, le terme 'Shinobi' signifie 'ninja'."
     },
     {
       "questionId": 38,
-      "cat_id": 2,
-      "answerLabel": "Obito Uchiha se cache sous l'identité de Tobi dans Naruto Shippuden."
+      "isCorrect": false,
+      "answerLabel": "Dans Naruto, le terme 'Shinobi' signifie 'guerrier'."
     },
     {
       "questionId": 39,
-      "cat_id": 2,
-      "answerLabel": "La technique ultime de Naruto est le Rasengan combiné au chakra de Kurama, le mode Bijuu."
+      "isCorrect": true,
+      "answerLabel": "La technique de déplacement rapide utilisée par les ninjas dans Naruto est le Shunshin no Jutsu, ou la technique de déplacement instantané."
     },
     {
       "questionId": 39,
-      "cat_id": 2,
-      "answerLabel": "Naruto atteint son apogée en utilisant le Rasengan et le mode Bijuu."
+      "isCorrect": false,
+      "answerLabel": "La technique de déplacement rapide utilisée par les ninjas dans Naruto est le Rasengan."
     },
     {
       "questionId": 40,
-      "cat_id": 2,
-      "answerLabel": "La technique d'invocation de Naruto est la technique de l'Invocation des Grenouilles."
+      "isCorrect": true,
+      "answerLabel": "Dans Naruto, le Sharingan est un doujutsu héréditaire qui confère à l'utilisateur des pouvoirs spéciaux, tels que la copie de techniques et la perception accrue."
     },
     {
       "questionId": 40,
-      "cat_id": 2,
-      "answerLabel": "Naruto peut invoquer des grenouilles pour l'aider au combat."
+      "isCorrect": false,
+      "answerLabel": "Dans Naruto, le Sharingan est une boisson énergisante populaire."
     },
     {
       "questionId": 41,
