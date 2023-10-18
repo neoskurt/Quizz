@@ -4,202 +4,202 @@
       "id": 1,
       "cat_id": 1,
       "questionLabel": "Qui est le protagoniste principal dans One Piece ?"
-      },
-      {
+    },
+    {
       "id": 2,
       "cat_id": 1,
       "questionLabel": "Quel est le nom de l'attaque signature de Monkey D. Luffy ?"
-      },
-      {
+    },
+    {
       "id": 3,
       "cat_id": 1,
       "questionLabel": "Où se déroule principalement l'histoire de One Piece ?"
-      },
-      {
+    },
+    {
       "id": 4,
       "cat_id": 1,
       "questionLabel": "Qu'est-ce que la Grand Line dans One Piece ?"
-      },
-      {
+    },
+    {
       "id": 5,
       "cat_id": 1,
       "questionLabel": "Qui est le capitaine des Pirates du Chapeau de Paille en dehors de Luffy ?"
-      },
-      {
+    },
+    {
       "id": 6,
       "cat_id": 1,
       "questionLabel": "Quel est le nom du style de combat à trois épées de Zoro dans One Piece ?"
-      },
-      {
+    },
+    {
       "id": 7,
       "cat_id": 1,
       "questionLabel": "Qui est connu comme le 'Voleur de Chat' dans l'équipage du Chapeau de Paille ?"
-      },
-      {
+    },
+    {
       "id": 8,
       "cat_id": 1,
       "questionLabel": "Quelle est la capacité du Fruit du Démon de Portgas D. Ace ?"
-      },
-      {
+    },
+    {
       "id": 9,
       "cat_id": 1,
       "questionLabel": "Quel est le nom du navire de Luffy dans One Piece ?"
-      },
-      {
+    },
+    {
       "id": 10,
       "cat_id": 1,
       "questionLabel": "Qui est l'archéologue dans l'équipage du Chapeau de Paille ?"
-      },
-      {
+    },
+    {
       "id": 11,
       "cat_id": 1,
       "questionLabel": "Quel est le but de Monkey D. Luffy dans One Piece ?"
-      },
-      {
+    },
+    {
       "id": 12,
       "cat_id": 1,
       "questionLabel": "Qui est le capitaine des Pirates aux Cheveux Rouges ?"
-      },
-      {
+    },
+    {
       "id": 13,
       "cat_id": 1,
       "questionLabel": "Quel est le nom de l'océan mystérieux qui entoure le monde dans One Piece ?"
-      },
-      {
+    },
+    {
       "id": 14,
       "cat_id": 1,
       "questionLabel": "Qui est le médecin dans l'équipage du Chapeau de Paille ?"
-      },
-      {
+    },
+    {
       "id": 15,
       "cat_id": 1,
       "questionLabel": "Quelle est la signification de la 'Volonté de D.' dans One Piece ?"
-      },
-      {
+    },
+    {
       "id": 16,
       "cat_id": 1,
       "questionLabel": "Qui est l'antagoniste et le capitaine des Pirates de Barbe Noire ?"
-      },
-      {
+    },
+    {
       "id": 17,
       "cat_id": 1,
       "questionLabel": "Quelle est la devise principale dans le monde de One Piece ?"
-      },
-      {
+    },
+    {
       "id": 18,
       "cat_id": 1,
       "questionLabel": "Quel est le nom de l'île natale de Nami dans One Piece ?"
-      },
-      {
+    },
+    {
       "id": 19,
       "cat_id": 1,
       "questionLabel": "Qui est connu sous le nom de 'Roi des Âmes' dans l'équipage du Chapeau de Paille ?"
-      },
-      {
+    },
+    {
       "id": 20,
       "cat_id": 1,
       "questionLabel": "Quel est le concept de Haki dans One Piece, et comment est-il utilisé ?"
-      },
-      {
-        "id": 21,
-        "cat_id": 2,
-        "questionLabel": "Qui est le personnage principal de Naruto?"
-      },
-      {
-        "id": 22,
-        "cat_id": 2,
-        "questionLabel": "Quelle est la quête de Naruto dans la série?"
-      },
-      {
-        "id": 23,
-        "cat_id": 2,
-        "questionLabel": "Quelle est la signification du bandeau frontal de Naruto?"
-      },
-      {
-        "id": 24,
-        "cat_id": 2,
-        "questionLabel": "Qui est l'antagoniste principal de Naruto Shippuden?"
-      },
-      {
-        "id": 25,
-        "cat_id": 2,
-        "questionLabel": "Quel est le village caché de Naruto?"
-      },
-      {
-        "id": 26,
-        "cat_id": 2,
-        "questionLabel": "Quels sont les pouvoirs spéciaux de Sasuke Uchiha?"
-      },
-      {
-        "id": 27,
-        "cat_id": 2,
-        "questionLabel": "Quelle est la technique de jutsu préférée de Kakashi Hatake?"
-      },
-      {
-        "id": 28,
-        "cat_id": 2,
-        "questionLabel": "Quel est le nom du sensei de Naruto?"
-      },
-      {
-        "id": 29,
-        "cat_id": 2,
-        "questionLabel": "Comment Naruto obtient-il son pouvoir?"
-      },
-      {
-        "id": 30,
-        "cat_id": 2,
-        "questionLabel": "Quel est le nom du bijuu à l'intérieur de Naruto?"
-      },
-      {
-        "id": 31,
-        "cat_id": 2,
-        "questionLabel": "Quelle est la technique signature de Naruto?"
-      },
-      {
-        "id": 32,
-        "cat_id": 2,
-        "questionLabel": "Quelle est la relation entre Naruto et Sasuke?"
-      },
-      {
-        "id": 33,
-        "cat_id": 2,
-        "questionLabel": "Quel est le clan de ninja de Sasuke?"
-      },
-      {
-        "id": 34,
-        "cat_id": 2,
-        "questionLabel": "Qui est le père de Naruto?"
-      },
-      {
-        "id": 35,
-        "cat_id": 2,
-        "questionLabel": "Quel est le nom du Hokage précédent dans Naruto?"
-      },
-      {
-        "id": 36,
-        "cat_id": 2,
-        "questionLabel": "Quelle est la signification de l'expression 'Dattebayo' utilisée par Naruto?"
-      },
-      {
-        "id": 37,
-        "cat_id": 2,
-        "questionLabel": "Quel est le village caché de Sasuke?"
-      },
-      {
-        "id": 38,
-        "cat_id": 2,
-        "questionLabel": "Quelle est la véritable identité de Tobi dans Naruto Shippuden?"
-      },
-      {
-        "id": 39,
-        "cat_id": 2,
-        "questionLabel": "Quelle est la technique ultime de Naruto?"
-      },
-      {
-        "id": 40,
-        "cat_id": 2,
-        "questionLabel": "Quel est le nom de la technique d'invocation de Naruto?"
-      },
+    },
+    {
+      "id": 21,
+      "cat_id": 2,
+      "questionLabel": "Qui est le personnage principal de Naruto?"
+    },
+    {
+      "id": 22,
+      "cat_id": 2,
+      "questionLabel": "Quelle est la quête de Naruto dans la série?"
+    },
+    {
+      "id": 23,
+      "cat_id": 2,
+      "questionLabel": "Quelle est la signification du bandeau frontal de Naruto?"
+    },
+    {
+      "id": 24,
+      "cat_id": 2,
+      "questionLabel": "Qui est l'antagoniste principal de Naruto Shippuden?"
+    },
+    {
+      "id": 25,
+      "cat_id": 2,
+      "questionLabel": "Quel est le village caché de Naruto?"
+    },
+    {
+      "id": 26,
+      "cat_id": 2,
+      "questionLabel": "Quels sont les pouvoirs spéciaux de Sasuke Uchiha?"
+    },
+    {
+      "id": 27,
+      "cat_id": 2,
+      "questionLabel": "Quelle est la technique de jutsu préférée de Kakashi Hatake?"
+    },
+    {
+      "id": 28,
+      "cat_id": 2,
+      "questionLabel": "Quel est le nom du sensei de Naruto?"
+    },
+    {
+      "id": 29,
+      "cat_id": 2,
+      "questionLabel": "Comment Naruto obtient-il son pouvoir?"
+    },
+    {
+      "id": 30,
+      "cat_id": 2,
+      "questionLabel": "Quel est le nom du bijuu à l'intérieur de Naruto?"
+    },
+    {
+      "id": 31,
+      "cat_id": 2,
+      "questionLabel": "Quelle est la technique signature de Naruto?"
+    },
+    {
+      "id": 32,
+      "cat_id": 2,
+      "questionLabel": "Quelle est la relation entre Naruto et Sasuke?"
+    },
+    {
+      "id": 33,
+      "cat_id": 2,
+      "questionLabel": "Quel est le clan de ninja de Sasuke?"
+    },
+    {
+      "id": 34,
+      "cat_id": 2,
+      "questionLabel": "Qui est le père de Naruto?"
+    },
+    {
+      "id": 35,
+      "cat_id": 2,
+      "questionLabel": "Quel est le nom du Hokage précédent dans Naruto?"
+    },
+    {
+      "id": 36,
+      "cat_id": 2,
+      "questionLabel": "Quelle est la signification de l'expression 'Dattebayo' utilisée par Naruto?"
+    },
+    {
+      "id": 37,
+      "cat_id": 2,
+      "questionLabel": "Quel est le village caché de Sasuke?"
+    },
+    {
+      "id": 38,
+      "cat_id": 2,
+      "questionLabel": "Quelle est la véritable identité de Tobi dans Naruto Shippuden?"
+    },
+    {
+      "id": 39,
+      "cat_id": 2,
+      "questionLabel": "Quelle est la technique ultime de Naruto?"
+    },
+    {
+      "id": 40,
+      "cat_id": 2,
+      "questionLabel": "Quel est le nom de la technique d'invocation de Naruto?"
+    },
     {
       "id": 41,
       "cat_id": 3,
@@ -300,608 +300,608 @@
       "cat_id": 3,
       "questionLabel": "Quelle est la couleur des cheveux de Super Saiyan Blue?"
     }
-    ],
-    "answers": [
-      {
-        "questionId": 1,
-        "answerLabel": "Monkey D. Luffy",
-        "isCorrect": true
-        },
-        {
-        "questionId": 1,
-        "answerLabel": "Roronoa Zoro",
-        "isCorrect": false
-        },
-        {
-        "questionId": 1,
-        "answerLabel": "Nami",
-        "isCorrect": false
-        },
-        {
-        "questionId": 1,
-        "answerLabel": "Portgas D. Ace",
-        "isCorrect": false
-        },
-        {
-        "questionId": 2,
-        "answerLabel": "Gomu Gomu no Pistol",
-        "isCorrect": true
-        },
-        {
-        "questionId": 2,
-        "answerLabel": "Santoryu",
-        "isCorrect": false
-        },
-        {
-        "questionId": 2,
-        "answerLabel": "Zoro Style",
-        "isCorrect": false
-        },
-        {
-        "questionId": 2,
-        "answerLabel": "Red Hawk",
-        "isCorrect": false
-        },
-        {
-        "questionId": 3,
-        "answerLabel": "Grand Line",
-        "isCorrect": true
-        },
-        {
-        "questionId": 3,
-        "answerLabel": "East Blue",
-        "isCorrect": false
-        },
-        {
-        "questionId": 3,
-        "answerLabel": "North Blue",
-        "isCorrect": false
-        },
-        {
-        "questionId": 3,
-        "answerLabel": "South Blue",
-        "isCorrect": false
-        },
-        {
-        "questionId": 4,
-        "answerLabel": "Une mer dangereuse et imprévisible qui entoure le monde",
-        "isCorrect": true
-        },
-        {
-        "questionId": 4,
-        "answerLabel": "L'île principale où vivent les Chapeaux de Paille",
-        "isCorrect": false
-        },
-        {
-        "questionId": 4,
-        "answerLabel": "Un océan calme et paisible",
-        "isCorrect": false
-        },
-        {
-        "questionId": 4,
-        "answerLabel": "Un endroit fictif créé par les pirates",
-        "isCorrect": false
-        },
-        {
-        "questionId": 5,
-        "answerLabel": "Roronoa Zoro",
-        "isCorrect": false
-        },
-        {
-        "questionId": 5,
-        "answerLabel": "Nami",
-        "isCorrect": false
-        },
-        {
-        "questionId": 5,
-        "answerLabel": "Sanji",
-        "isCorrect": false
-        },
-        {
-        "questionId": 5,
-        "answerLabel": "Jinbe",
-        "isCorrect": true
-        },
-        {
-        "questionId": 6,
-        "answerLabel": "Santoryu",
-        "isCorrect": true
-        },
-        {
-        "questionId": 6,
-        "answerLabel": "Fish-Man Karate",
-        "isCorrect": false
-        },
-        {
-        "questionId": 6,
-        "answerLabel": "Six Powers",
-        "isCorrect": false
-        },
-        {
-        "questionId": 6,
-        "answerLabel": "Black Leg Style",
-        "isCorrect": false
-        },
-        {
-        "questionId": 7,
-        "answerLabel": "Nico Robin",
-        "isCorrect": true
-        },
-        {
-        "questionId": 7,
-        "answerLabel": "Franky",
-        "isCorrect": false
-        },
-        {
-        "questionId": 7,
-        "answerLabel": "Brook",
-        "isCorrect": false
-        },
-        {
-        "questionId": 7,
-        "answerLabel": "Usopp",
-        "isCorrect": false
-        },
-        {
-        "questionId": 8,
-        "answerLabel": "Mera Mera no Mi (Flame-Flame Fruit)",
-        "isCorrect": true
-        },
-        {
-        "questionId": 8,
-        "answerLabel": "Bara Bara no Mi (Chop-Chop Fruit)",
-        "isCorrect": false
-        },
-        {
-        "questionId": 8,
-        "answerLabel": "Gura Gura no Mi (Tremor-Tremor Fruit)",
-        "isCorrect": false
-        },
-        {
-        "questionId": 8,
-        "answerLabel": "Ope Ope no Mi (Op-Op Fruit)",
-        "isCorrect": false
-        },
-        {
-        "questionId": 9,
-        "answerLabel": "Thousand Sunny",
-        "isCorrect": true
-        },
-        {
-        "questionId": 9,
-        "answerLabel": "Going Merry",
-        "isCorrect": false
-        },
-        {
-        "questionId": 9,
-        "answerLabel": "Red Force",
-        "isCorrect": false
-        },
-        {
-        "questionId": 9,
-        "answerLabel": "Kuja Pirates",
-        "isCorrect": false
-        },
-        {
-        "questionId": 10,
-        "answerLabel": "Nico Robin",
-        "isCorrect": true
-        },
-        {
-        "questionId": 10,
-        "answerLabel": "Chopper",
-        "isCorrect": false
-        },
-        {
-        "questionId": 10,
-        "answerLabel": "Franky",
-        "isCorrect": false
-        },
-        {
-        "questionId": 10,
-        "answerLabel": "Brook",
-        "isCorrect": false
-        },
-        {
-        "questionId": 11,
-        "answerLabel": "Devenir le Roi des Pirates et trouver le One Piece",
-        "isCorrect": true
-        },
-        {
-        "questionId": 11,
-        "answerLabel": "Devenir le plus fort des épéistes",
-        "isCorrect": false
-        },
-        {
-        "questionId": 11,
-        "answerLabel": "Trouver l'All Blue",
-        "isCorrect": false
-        },
-        {
-        "questionId": 11,
-        "answerLabel": "Devenir le meilleur charpentier de navire",
-        "isCorrect": false
-        },
-        {
-        "questionId": 12,
-        "answerLabel": "Shanks",
-        "isCorrect": true
-        },
-        {
-        "questionId": 12,
-        "answerLabel": "Kaido",
-        "isCorrect": false
-        },
-        {
-        "questionId": 12,
-        "answerLabel": "Big Mom",
-        "isCorrect": false
-        },
-        {
-        "questionId": 12,
-        "answerLabel": "Barbe Blanche",
-        "isCorrect": false
-        },
-        {
-        "questionId": 13,
-        "answerLabel": "Calm Belt",
-        "isCorrect": true
-        },
-        {
-        "questionId": 13,
-        "answerLabel": "Red Line",
-        "isCorrect": false
-        },
-        {
-        "questionId": 13,
-        "answerLabel": "Triangle Florian",
-        "isCorrect": false
-        },
-        {
-        "questionId": 13,
-        "answerLabel": "Montagne Inversée",
-        "isCorrect": false
-        },
-        {
-        "questionId": 14,
-        "answerLabel": "Tony Tony Chopper",
-        "isCorrect": true
-        },
-        {
-        "questionId": 14,
-        "answerLabel": "Law",
-        "isCorrect": false
-        },
-        {
-        "questionId": 14,
-        "answerLabel": "Hancock",
-        "isCorrect": false
-        },
-        {
-        "questionId": 14,
-        "answerLabel": "Usopp",
-        "isCorrect": false
-        },
-        {
-        "questionId": 15,
-        "answerLabel": "Il représente une force mystérieuse et puissante que certains personnages possèdent.",
-        "isCorrect": true
-        },
-        {
-        "questionId": 15,
-        "answerLabel": "C'est le nom d'un trésor légendaire.",
-        "isCorrect": false
-        },
-        {
-        "questionId": 15,
-        "answerLabel": "C'est le symbole du Gouvernement Mondial.",
-        "isCorrect": false
-        },
-        {
-        "questionId": 15,
-        "answerLabel": "C'est une organisation secrète dans le monde de One Piece.",
-        "isCorrect": false
-        },
-        {
-        "questionId": 16,
-        "answerLabel": "Marshall D. Teach (Barbe Noire)",
-        "isCorrect": true
-        },
-        {
-        "questionId": 16,
-        "answerLabel": "Akainu",
-        "isCorrect": false
-        },
-        {
-        "questionId": 16,
-        "answerLabel": "Kizaru",
-        "isCorrect": false
-        },
-        {
-        "questionId": 16,
-        "answerLabel": "Aokiji",
-        "isCorrect": false
-        },
-        {
-        "questionId": 17,
-        "answerLabel": "Aventure, Amitié, et Découverte des îles mystérieuses",
-        "isCorrect": true
-        },
-        {
-        "questionId": 17,
-        "answerLabel": "Richesse, Pouvoir, et Conquête",
-        "isCorrect": false
-        },
-        {
-        "questionId": 17,
-        "answerLabel": "Survie, Trahison, et Vengeance",
-        "isCorrect": false
-        },
-        {
-        "questionId": 17,
-        "answerLabel": "Honneur, Devoir, et Loyauté",
-        "isCorrect": false
-        },
-        {
-        "questionId": 18,
-        "answerLabel": "Cocoyasi Village",
-        "isCorrect": true
-        },
-        {
-        "questionId": 18,
-        "answerLabel": "Water 7",
-        "isCorrect": false
-        },
-        {
-        "questionId": 18,
-        "answerLabel": "Loguetown",
-        "isCorrect": false
-        },
-        {
-        "questionId": 18,
-        "answerLabel": "Dressrosa",
-        "isCorrect": false
-        },
-        {
-        "questionId": 19,
-        "answerLabel": "Brook",
-        "isCorrect": false
-        },
-        {
-        "questionId": 19,
-        "answerLabel": "Law",
-        "isCorrect": false
-        },
-        {
-        "questionId": 19,
-        "answerLabel": "Sanji",
-        "isCorrect": true
-        },
-        {
-        "questionId": 19,
-        "answerLabel": "Jinbe",
-        "isCorrect": false
-        },
-        {
-        "questionId": 20,
-        "answerLabel": "Haki est une forme de puissance spirituelle qui peut être utilisée pour la perception extrasensorielle, la protection, et même la domination mentale.",
-        "isCorrect": true
-        },
-        {
-        "questionId": 20,
-        "answerLabel": "Haki est une épée légendaire dans One Piece.",
-        "isCorrect": false
-        },
-        {
-        "questionId": 20,
-        "answerLabel": "Haki est un fruit du démon rare.",
-        "isCorrect": false
-        },
-        {
-        "questionId": 20,
-        "answerLabel": "Haki est une île mystérieuse dans le Nouveau Monde.",
-        "isCorrect": false
-        },
-        {
-          "questionId": 21,
-          "cat_id": 2,
-          "answerLabel": "Naruto Uzumaki est le personnage principal de Naruto."
-        },
-        {
-          "questionId": 21,
-          "cat_id": 2,
-          "answerLabel": "Naruto Uzumaki est le protagoniste de la série."
-        },
-        {
-          "questionId": 22,
-          "cat_id": 2,
-          "answerLabel": "La quête de Naruto est de devenir Hokage et d'obtenir la reconnaissance de son village."
-        },
-        {
-          "questionId": 22,
-          "cat_id": 2,
-          "answerLabel": "Naruto recherche la puissance pour protéger ses amis et son village."
-        },
-        {
-          "questionId": 23,
-          "cat_id": 2,
-          "answerLabel": "Le bandeau frontal de Naruto symbolise son appartenance au village de Konoha."
-        },
-        {
-          "questionId": 23,
-          "cat_id": 2,
-          "answerLabel": "Le bandeau frontal de Naruto représente la volonté du feu."
-        },
-        {
-          "questionId": 24,
-          "cat_id": 2,
-          "answerLabel": "L'antagoniste principal de Naruto Shippuden est Kaguya Ôtsutsuki."
-        },
-        {
-          "questionId": 24,
-          "cat_id": 2,
-          "answerLabel": "Madara Uchiha est l'un des principaux antagonistes de Naruto Shippuden."
-        },
-        {
-          "questionId": 25,
-          "cat_id": 2,
-          "answerLabel": "Le village caché de Naruto est Konoha, également appelé Konohagakure."
-        },
-        {
-          "questionId": 25,
-          "cat_id": 2,
-          "answerLabel": "Naruto provient du village caché de Konoha, situé dans le Pays du Feu."
-        },
-        {
-          "questionId": 26,
-          "cat_id": 2,
-          "answerLabel": "Sasuke Uchiha possède le Sharingan et le Rinnegan, des pouvoirs oculaires redoutables."
-        },
-        {
-          "questionId": 26,
-          "cat_id": 2,
-          "answerLabel": "Les pouvoirs spéciaux de Sasuke Uchiha sont liés à son clan, le clan Uchiha."
-        },
-        {
-          "questionId": 27,
-          "cat_id": 2,
-          "answerLabel": "La technique de jutsu préférée de Kakashi Hatake est le Chidori."
-        },
-        {
-          "questionId": 27,
-          "cat_id": 2,
-          "answerLabel": "Kakashi Hatake est connu pour sa maîtrise du Sharingan et de nombreuses techniques de jutsu."
-        },
-        {
-          "questionId": 28,
-          "cat_id": 2,
-          "answerLabel": "Le sensei de Naruto est Kakashi Hatake."
-        },
-        {
-          "questionId": 28,
-          "cat_id": 2,
-          "answerLabel": "Naruto est formé par plusieurs sensei au fil de la série, dont Kakashi Hatake."
-        },
-        {
-          "questionId": 29,
-          "cat_id": 2,
-          "answerLabel": "Naruto obtient son pouvoir grâce à l'incarnation de Kurama, le renard à neuf queues."
-        },
-        {
-          "questionId": 29,
-          "cat_id": 2,
-          "answerLabel": "Naruto hérite du chakra de Kurama, ce qui lui confère une grande puissance."
-        },
-        {
-          "questionId": 30,
-          "cat_id": 2,
-          "answerLabel": "Le bijuu à l'intérieur de Naruto est Kurama, le renard à neuf queues."
-        },
-        {
-          "questionId": 30,
-          "cat_id": 2,
-          "answerLabel": "Naruto est l'hôte de Kurama, un puissant bijuu."
-        },
-        {
-          "questionId": 31,
-          "cat_id": 2,
-          "answerLabel": "La technique signature de Naruto est le Rasengan."
-        },
-        {
-          "questionId": 31,
-          "cat_id": 2,
-          "answerLabel": "Naruto maîtrise le Rasengan, une technique de jutsu créée par Minato Namikaze."
-        },
-        {
-          "questionId": 32,
-          "cat_id": 2,
-          "answerLabel": "La relation entre Naruto et Sasuke est complexe, allant de rivaux à amis proches et ennemis à certains moments."
-        },
-        {
-          "questionId": 32,
-          "cat_id": 2,
-          "answerLabel": "Naruto et Sasuke partagent un lien fort en tant qu'amis d'enfance et ninjas d'élite."
-        },
-        {
-          "questionId": 33,
-          "cat_id": 2,
-          "answerLabel": "Sasuke Uchiha appartient au clan Uchiha, un clan de ninjas puissants."
-        },
-        {
-          "questionId": 33,
-          "cat_id": 2,
-          "answerLabel": "Les Uchiha sont connus pour leur Sharingan et leur histoire complexe."
-        },
-        {
-          "questionId": 34,
-          "cat_id": 2,
-          "answerLabel": "Le père de Naruto est Minato Namikaze, le Quatrième Hokage."
-        },
-        {
-          "questionId": 34,
-          "cat_id": 2,
-          "answerLabel": "Minato Namikaze est le père de Naruto et un Hokage respecté de Konoha."
-        },
-        {
-          "questionId": 35,
-          "cat_id": 2,
-          "answerLabel": "Le Hokage précédent dans Naruto est Hiruzen Sarutobi, le Troisième Hokage."
-        },
-        {
-          "questionId": 35,
-          "cat_id": 2,
-          "answerLabel": "Hiruzen Sarutobi était le Troisième Hokage avant la nomination de Minato Namikaze."
-        },
-        {
-          "questionId": 36,
-          "cat_id": 2,
-          "answerLabel": "L'expression 'Dattebayo' utilisée par Naruto est un ajout distinctif à ses phrases, n'ayant pas de signification particulière."
-        },
-        {
-          "questionId": 36,
-          "cat_id": 2,
-          "answerLabel": "'Dattebayo' est une expression utilisée par Naruto pour renforcer son discours, semblable à 'c'est vrai' ou 'tu sais.'"
-        },
-        {
-          "questionId": 37,
-          "cat_id": 2,
-          "answerLabel": "Sasuke provient du village caché de Konoha, tout comme Naruto."
-        },
-        {
-          "questionId": 37,
-          "cat_id": 2,
-          "answerLabel": "Sasuke Uchiha est originaire de Konoha, tout comme Naruto."
-        },
-        {
-          "questionId": 38,
-          "cat_id": 2,
-          "answerLabel": "La véritable identité de Tobi dans Naruto Shippuden est Obito Uchiha."
-        },
-        {
-          "questionId": 38,
-          "cat_id": 2,
-          "answerLabel": "Obito Uchiha se cache sous l'identité de Tobi dans Naruto Shippuden."
-        },
-        {
-          "questionId": 39,
-          "cat_id": 2,
-          "answerLabel": "La technique ultime de Naruto est le Rasengan combiné au chakra de Kurama, le mode Bijuu."
-        },
-        {
-          "questionId": 39,
-          "cat_id": 2,
-          "answerLabel": "Naruto atteint son apogée en utilisant le Rasengan et le mode Bijuu."
-        },
-        {
-          "questionId": 40,
-          "cat_id": 2,
-          "answerLabel": "La technique d'invocation de Naruto est la technique de l'Invocation des Grenouilles."
-        },
-        {
-          "questionId": 40,
-          "cat_id": 2,
-          "answerLabel": "Naruto peut invoquer des grenouilles pour l'aider au combat."
-        },
+  ],
+  "answers": [
+    {
+      "questionId": 1,
+      "answerLabel": "Monkey D. Luffy",
+      "isCorrect": true
+    },
+    {
+      "questionId": 1,
+      "answerLabel": "Roronoa Zoro",
+      "isCorrect": false
+    },
+    {
+      "questionId": 1,
+      "answerLabel": "Nami",
+      "isCorrect": false
+    },
+    {
+      "questionId": 1,
+      "answerLabel": "Portgas D. Ace",
+      "isCorrect": false
+    },
+    {
+      "questionId": 2,
+      "answerLabel": "Gomu Gomu no Pistol",
+      "isCorrect": true
+    },
+    {
+      "questionId": 2,
+      "answerLabel": "Santoryu",
+      "isCorrect": false
+    },
+    {
+      "questionId": 2,
+      "answerLabel": "Zoro Style",
+      "isCorrect": false
+    },
+    {
+      "questionId": 2,
+      "answerLabel": "Red Hawk",
+      "isCorrect": false
+    },
+    {
+      "questionId": 3,
+      "answerLabel": "Grand Line",
+      "isCorrect": true
+    },
+    {
+      "questionId": 3,
+      "answerLabel": "East Blue",
+      "isCorrect": false
+    },
+    {
+      "questionId": 3,
+      "answerLabel": "North Blue",
+      "isCorrect": false
+    },
+    {
+      "questionId": 3,
+      "answerLabel": "South Blue",
+      "isCorrect": false
+    },
+    {
+      "questionId": 4,
+      "answerLabel": "Une mer dangereuse et imprévisible qui entoure le monde",
+      "isCorrect": true
+    },
+    {
+      "questionId": 4,
+      "answerLabel": "L'île principale où vivent les Chapeaux de Paille",
+      "isCorrect": false
+    },
+    {
+      "questionId": 4,
+      "answerLabel": "Un océan calme et paisible",
+      "isCorrect": false
+    },
+    {
+      "questionId": 4,
+      "answerLabel": "Un endroit fictif créé par les pirates",
+      "isCorrect": false
+    },
+    {
+      "questionId": 5,
+      "answerLabel": "Roronoa Zoro",
+      "isCorrect": false
+    },
+    {
+      "questionId": 5,
+      "answerLabel": "Nami",
+      "isCorrect": false
+    },
+    {
+      "questionId": 5,
+      "answerLabel": "Sanji",
+      "isCorrect": false
+    },
+    {
+      "questionId": 5,
+      "answerLabel": "Jinbe",
+      "isCorrect": true
+    },
+    {
+      "questionId": 6,
+      "answerLabel": "Santoryu",
+      "isCorrect": true
+    },
+    {
+      "questionId": 6,
+      "answerLabel": "Fish-Man Karate",
+      "isCorrect": false
+    },
+    {
+      "questionId": 6,
+      "answerLabel": "Six Powers",
+      "isCorrect": false
+    },
+    {
+      "questionId": 6,
+      "answerLabel": "Black Leg Style",
+      "isCorrect": false
+    },
+    {
+      "questionId": 7,
+      "answerLabel": "Nico Robin",
+      "isCorrect": true
+    },
+    {
+      "questionId": 7,
+      "answerLabel": "Franky",
+      "isCorrect": false
+    },
+    {
+      "questionId": 7,
+      "answerLabel": "Brook",
+      "isCorrect": false
+    },
+    {
+      "questionId": 7,
+      "answerLabel": "Usopp",
+      "isCorrect": false
+    },
+    {
+      "questionId": 8,
+      "answerLabel": "Mera Mera no Mi (Flame-Flame Fruit)",
+      "isCorrect": true
+    },
+    {
+      "questionId": 8,
+      "answerLabel": "Bara Bara no Mi (Chop-Chop Fruit)",
+      "isCorrect": false
+    },
+    {
+      "questionId": 8,
+      "answerLabel": "Gura Gura no Mi (Tremor-Tremor Fruit)",
+      "isCorrect": false
+    },
+    {
+      "questionId": 8,
+      "answerLabel": "Ope Ope no Mi (Op-Op Fruit)",
+      "isCorrect": false
+    },
+    {
+      "questionId": 9,
+      "answerLabel": "Thousand Sunny",
+      "isCorrect": true
+    },
+    {
+      "questionId": 9,
+      "answerLabel": "Going Merry",
+      "isCorrect": false
+    },
+    {
+      "questionId": 9,
+      "answerLabel": "Red Force",
+      "isCorrect": false
+    },
+    {
+      "questionId": 9,
+      "answerLabel": "Kuja Pirates",
+      "isCorrect": false
+    },
+    {
+      "questionId": 10,
+      "answerLabel": "Nico Robin",
+      "isCorrect": true
+    },
+    {
+      "questionId": 10,
+      "answerLabel": "Chopper",
+      "isCorrect": false
+    },
+    {
+      "questionId": 10,
+      "answerLabel": "Franky",
+      "isCorrect": false
+    },
+    {
+      "questionId": 10,
+      "answerLabel": "Brook",
+      "isCorrect": false
+    },
+    {
+      "questionId": 11,
+      "answerLabel": "Devenir le Roi des Pirates et trouver le One Piece",
+      "isCorrect": true
+    },
+    {
+      "questionId": 11,
+      "answerLabel": "Devenir le plus fort des épéistes",
+      "isCorrect": false
+    },
+    {
+      "questionId": 11,
+      "answerLabel": "Trouver l'All Blue",
+      "isCorrect": false
+    },
+    {
+      "questionId": 11,
+      "answerLabel": "Devenir le meilleur charpentier de navire",
+      "isCorrect": false
+    },
+    {
+      "questionId": 12,
+      "answerLabel": "Shanks",
+      "isCorrect": true
+    },
+    {
+      "questionId": 12,
+      "answerLabel": "Kaido",
+      "isCorrect": false
+    },
+    {
+      "questionId": 12,
+      "answerLabel": "Big Mom",
+      "isCorrect": false
+    },
+    {
+      "questionId": 12,
+      "answerLabel": "Barbe Blanche",
+      "isCorrect": false
+    },
+    {
+      "questionId": 13,
+      "answerLabel": "Calm Belt",
+      "isCorrect": true
+    },
+    {
+      "questionId": 13,
+      "answerLabel": "Red Line",
+      "isCorrect": false
+    },
+    {
+      "questionId": 13,
+      "answerLabel": "Triangle Florian",
+      "isCorrect": false
+    },
+    {
+      "questionId": 13,
+      "answerLabel": "Montagne Inversée",
+      "isCorrect": false
+    },
+    {
+      "questionId": 14,
+      "answerLabel": "Tony Tony Chopper",
+      "isCorrect": true
+    },
+    {
+      "questionId": 14,
+      "answerLabel": "Law",
+      "isCorrect": false
+    },
+    {
+      "questionId": 14,
+      "answerLabel": "Hancock",
+      "isCorrect": false
+    },
+    {
+      "questionId": 14,
+      "answerLabel": "Usopp",
+      "isCorrect": false
+    },
+    {
+      "questionId": 15,
+      "answerLabel": "Il représente une force mystérieuse et puissante que certains personnages possèdent.",
+      "isCorrect": true
+    },
+    {
+      "questionId": 15,
+      "answerLabel": "C'est le nom d'un trésor légendaire.",
+      "isCorrect": false
+    },
+    {
+      "questionId": 15,
+      "answerLabel": "C'est le symbole du Gouvernement Mondial.",
+      "isCorrect": false
+    },
+    {
+      "questionId": 15,
+      "answerLabel": "C'est une organisation secrète dans le monde de One Piece.",
+      "isCorrect": false
+    },
+    {
+      "questionId": 16,
+      "answerLabel": "Marshall D. Teach (Barbe Noire)",
+      "isCorrect": true
+    },
+    {
+      "questionId": 16,
+      "answerLabel": "Akainu",
+      "isCorrect": false
+    },
+    {
+      "questionId": 16,
+      "answerLabel": "Kizaru",
+      "isCorrect": false
+    },
+    {
+      "questionId": 16,
+      "answerLabel": "Aokiji",
+      "isCorrect": false
+    },
+    {
+      "questionId": 17,
+      "answerLabel": "Aventure, Amitié, et Découverte des îles mystérieuses",
+      "isCorrect": true
+    },
+    {
+      "questionId": 17,
+      "answerLabel": "Richesse, Pouvoir, et Conquête",
+      "isCorrect": false
+    },
+    {
+      "questionId": 17,
+      "answerLabel": "Survie, Trahison, et Vengeance",
+      "isCorrect": false
+    },
+    {
+      "questionId": 17,
+      "answerLabel": "Honneur, Devoir, et Loyauté",
+      "isCorrect": false
+    },
+    {
+      "questionId": 18,
+      "answerLabel": "Cocoyasi Village",
+      "isCorrect": true
+    },
+    {
+      "questionId": 18,
+      "answerLabel": "Water 7",
+      "isCorrect": false
+    },
+    {
+      "questionId": 18,
+      "answerLabel": "Loguetown",
+      "isCorrect": false
+    },
+    {
+      "questionId": 18,
+      "answerLabel": "Dressrosa",
+      "isCorrect": false
+    },
+    {
+      "questionId": 19,
+      "answerLabel": "Brook",
+      "isCorrect": false
+    },
+    {
+      "questionId": 19,
+      "answerLabel": "Law",
+      "isCorrect": false
+    },
+    {
+      "questionId": 19,
+      "answerLabel": "Sanji",
+      "isCorrect": true
+    },
+    {
+      "questionId": 19,
+      "answerLabel": "Jinbe",
+      "isCorrect": false
+    },
+    {
+      "questionId": 20,
+      "answerLabel": "Haki est une forme de puissance spirituelle qui peut être utilisée pour la perception extrasensorielle, la protection, et même la domination mentale.",
+      "isCorrect": true
+    },
+    {
+      "questionId": 20,
+      "answerLabel": "Haki est une épée légendaire dans One Piece.",
+      "isCorrect": false
+    },
+    {
+      "questionId": 20,
+      "answerLabel": "Haki est un fruit du démon rare.",
+      "isCorrect": false
+    },
+    {
+      "questionId": 20,
+      "answerLabel": "Haki est une île mystérieuse dans le Nouveau Monde.",
+      "isCorrect": false
+    },
+    {
+      "questionId": 21,
+      "cat_id": 2,
+      "answerLabel": "Naruto Uzumaki est le personnage principal de Naruto."
+    },
+    {
+      "questionId": 21,
+      "cat_id": 2,
+      "answerLabel": "Naruto Uzumaki est le protagoniste de la série."
+    },
+    {
+      "questionId": 22,
+      "cat_id": 2,
+      "answerLabel": "La quête de Naruto est de devenir Hokage et d'obtenir la reconnaissance de son village."
+    },
+    {
+      "questionId": 22,
+      "cat_id": 2,
+      "answerLabel": "Naruto recherche la puissance pour protéger ses amis et son village."
+    },
+    {
+      "questionId": 23,
+      "cat_id": 2,
+      "answerLabel": "Le bandeau frontal de Naruto symbolise son appartenance au village de Konoha."
+    },
+    {
+      "questionId": 23,
+      "cat_id": 2,
+      "answerLabel": "Le bandeau frontal de Naruto représente la volonté du feu."
+    },
+    {
+      "questionId": 24,
+      "cat_id": 2,
+      "answerLabel": "L'antagoniste principal de Naruto Shippuden est Kaguya Ôtsutsuki."
+    },
+    {
+      "questionId": 24,
+      "cat_id": 2,
+      "answerLabel": "Madara Uchiha est l'un des principaux antagonistes de Naruto Shippuden."
+    },
+    {
+      "questionId": 25,
+      "cat_id": 2,
+      "answerLabel": "Le village caché de Naruto est Konoha, également appelé Konohagakure."
+    },
+    {
+      "questionId": 25,
+      "cat_id": 2,
+      "answerLabel": "Naruto provient du village caché de Konoha, situé dans le Pays du Feu."
+    },
+    {
+      "questionId": 26,
+      "cat_id": 2,
+      "answerLabel": "Sasuke Uchiha possède le Sharingan et le Rinnegan, des pouvoirs oculaires redoutables."
+    },
+    {
+      "questionId": 26,
+      "cat_id": 2,
+      "answerLabel": "Les pouvoirs spéciaux de Sasuke Uchiha sont liés à son clan, le clan Uchiha."
+    },
+    {
+      "questionId": 27,
+      "cat_id": 2,
+      "answerLabel": "La technique de jutsu préférée de Kakashi Hatake est le Chidori."
+    },
+    {
+      "questionId": 27,
+      "cat_id": 2,
+      "answerLabel": "Kakashi Hatake est connu pour sa maîtrise du Sharingan et de nombreuses techniques de jutsu."
+    },
+    {
+      "questionId": 28,
+      "cat_id": 2,
+      "answerLabel": "Le sensei de Naruto est Kakashi Hatake."
+    },
+    {
+      "questionId": 28,
+      "cat_id": 2,
+      "answerLabel": "Naruto est formé par plusieurs sensei au fil de la série, dont Kakashi Hatake."
+    },
+    {
+      "questionId": 29,
+      "cat_id": 2,
+      "answerLabel": "Naruto obtient son pouvoir grâce à l'incarnation de Kurama, le renard à neuf queues."
+    },
+    {
+      "questionId": 29,
+      "cat_id": 2,
+      "answerLabel": "Naruto hérite du chakra de Kurama, ce qui lui confère une grande puissance."
+    },
+    {
+      "questionId": 30,
+      "cat_id": 2,
+      "answerLabel": "Le bijuu à l'intérieur de Naruto est Kurama, le renard à neuf queues."
+    },
+    {
+      "questionId": 30,
+      "cat_id": 2,
+      "answerLabel": "Naruto est l'hôte de Kurama, un puissant bijuu."
+    },
+    {
+      "questionId": 31,
+      "cat_id": 2,
+      "answerLabel": "La technique signature de Naruto est le Rasengan."
+    },
+    {
+      "questionId": 31,
+      "cat_id": 2,
+      "answerLabel": "Naruto maîtrise le Rasengan, une technique de jutsu créée par Minato Namikaze."
+    },
+    {
+      "questionId": 32,
+      "cat_id": 2,
+      "answerLabel": "La relation entre Naruto et Sasuke est complexe, allant de rivaux à amis proches et ennemis à certains moments."
+    },
+    {
+      "questionId": 32,
+      "cat_id": 2,
+      "answerLabel": "Naruto et Sasuke partagent un lien fort en tant qu'amis d'enfance et ninjas d'élite."
+    },
+    {
+      "questionId": 33,
+      "cat_id": 2,
+      "answerLabel": "Sasuke Uchiha appartient au clan Uchiha, un clan de ninjas puissants."
+    },
+    {
+      "questionId": 33,
+      "cat_id": 2,
+      "answerLabel": "Les Uchiha sont connus pour leur Sharingan et leur histoire complexe."
+    },
+    {
+      "questionId": 34,
+      "cat_id": 2,
+      "answerLabel": "Le père de Naruto est Minato Namikaze, le Quatrième Hokage."
+    },
+    {
+      "questionId": 34,
+      "cat_id": 2,
+      "answerLabel": "Minato Namikaze est le père de Naruto et un Hokage respecté de Konoha."
+    },
+    {
+      "questionId": 35,
+      "cat_id": 2,
+      "answerLabel": "Le Hokage précédent dans Naruto est Hiruzen Sarutobi, le Troisième Hokage."
+    },
+    {
+      "questionId": 35,
+      "cat_id": 2,
+      "answerLabel": "Hiruzen Sarutobi était le Troisième Hokage avant la nomination de Minato Namikaze."
+    },
+    {
+      "questionId": 36,
+      "cat_id": 2,
+      "answerLabel": "L'expression 'Dattebayo' utilisée par Naruto est un ajout distinctif à ses phrases, n'ayant pas de signification particulière."
+    },
+    {
+      "questionId": 36,
+      "cat_id": 2,
+      "answerLabel": "'Dattebayo' est une expression utilisée par Naruto pour renforcer son discours, semblable à 'c'est vrai' ou 'tu sais.'"
+    },
+    {
+      "questionId": 37,
+      "cat_id": 2,
+      "answerLabel": "Sasuke provient du village caché de Konoha, tout comme Naruto."
+    },
+    {
+      "questionId": 37,
+      "cat_id": 2,
+      "answerLabel": "Sasuke Uchiha est originaire de Konoha, tout comme Naruto."
+    },
+    {
+      "questionId": 38,
+      "cat_id": 2,
+      "answerLabel": "La véritable identité de Tobi dans Naruto Shippuden est Obito Uchiha."
+    },
+    {
+      "questionId": 38,
+      "cat_id": 2,
+      "answerLabel": "Obito Uchiha se cache sous l'identité de Tobi dans Naruto Shippuden."
+    },
+    {
+      "questionId": 39,
+      "cat_id": 2,
+      "answerLabel": "La technique ultime de Naruto est le Rasengan combiné au chakra de Kurama, le mode Bijuu."
+    },
+    {
+      "questionId": 39,
+      "cat_id": 2,
+      "answerLabel": "Naruto atteint son apogée en utilisant le Rasengan et le mode Bijuu."
+    },
+    {
+      "questionId": 40,
+      "cat_id": 2,
+      "answerLabel": "La technique d'invocation de Naruto est la technique de l'Invocation des Grenouilles."
+    },
+    {
+      "questionId": 40,
+      "cat_id": 2,
+      "answerLabel": "Naruto peut invoquer des grenouilles pour l'aider au combat."
+    },
     {
       "questionId": 41,
       "answerLabel": "King Vegeta",
@@ -1302,7 +1302,7 @@
       "answerLabel": "Yellow",
       "isCorrect": false
     }
-    ],
+  ],
   "users": [
     {
       "id": 1,
